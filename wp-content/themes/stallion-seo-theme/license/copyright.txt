@@ -1,0 +1,11 @@
+Copyright Notices
+
+within this folder you will find various copyright notices.
+
+Below are a list of files covered by those copyright notices.
+
+Unless otherwise stated below all files are copyright David Law.
+
+
+/plugins/hikari-titled-comments.php GPL 2
+/plugins/stallion-seo-super-comments.php Partially GPL 2

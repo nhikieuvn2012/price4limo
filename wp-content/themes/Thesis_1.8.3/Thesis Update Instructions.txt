@@ -1,0 +1,11 @@
+Thesis Update Instructions
+
+Back up the /custom folder from your existing Thesis installation to your hard drive.
+Upload the new Thesis 1.8.3 folder to your /wp-content/themes folder.
+If your backed-up /custom folder is from version 1.6 or newer, you can upload it directly into the new /thesis_183 folder and then proceed to step 5. If your backed-up /custom folder is from version 1.5.1 or older, please proceed to step 4.
+Rename the /custom-sample folder to, simply, /custom. Instead of uploading your backed-up /custom folder, copy its contents, and paste it all into your newly-renamed /custom folder, which should also contain a file called layout.css.
+Set the permissions of your new layout.css file to 666.
+Make sure your /cache folder’s permissions are set to 775.
+Inside your WordPress dashboard, go to Appearance ? Themes, and then activate Thesis 1.8.3.
+Visit the Design Options page, ensure that Thesis is not giving you a warning about the file permissions on your layout.css file, and then hit the Big Ass Save Button.
+You’re done, and now it’s time to explore Thesis and run a killer website!

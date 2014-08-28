@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<fields>
+		<fieldset name="slide" label="Slide General Settings">
+				
+			<field name="slide_transition" 
+				type="radio"
+				default="slide" 
+				label="Slide Transition" 
+				description="The transitions effect of the slide">				
+			  <option value="slide" text="Slide"></option>
+			  <option value="fade" text="Fade"></option>
+			</field>		
+		
+			<field name="video_addon" 
+				type="radio" 
+				default="none" label="Slide Video / HTML Type" 
+				description="Choose what video type / html will be shown on the slide">
+			  <option value="none" text="No Video"></option>
+			  <option value="youtube" text="Youtube"></option>
+			  <option value="vimeo" text="Vimeo"></option>
+			  <option value="html" text="Custom HTML"></option>
+			</field>		
+
+			<field name="vimeo_id" 
+				type="text"
+				label="Vimeo ID"
+				class="medium-text"
+				description="Example: 29996808"
+			/>
+
+			<field name="youtube_id" 
+				type="text"
+				label="Youtube ID"
+				class="medium-text"
+				description="Example: VdvEdMMtNMY"
+			/>
+			
+			<field name="video_description" 
+				  type="textarea"
+				  default="" 
+				  label="Video Description" 
+				  description="The description of the video or custom html, html format can be used."
+				  rows="6"
+				  cols="90"
+			 />
+
+			<field name="video_fullscreen" 
+				  type="radio"
+				  default="false" 
+				  label="Video Fullscreen" 
+				  description="If the video will display in fullscreen."				  
+			 >
+			  <option value="false" text="False"></option>
+			  <option value="true" text="True"></option>
+			 </field>
+
+				
+		</fieldset>
+			
+		<fieldset name="kenburns" label="Ken Burns Settings">
+		
+			<field name="kenburn_type" 
+				type="radio" 
+				default="default" 
+				label="Settings Type" 
+				description="Set the default / custom ken burns settings.">
+			  <option value="default" text="Default"></option>
+			  <option value="custom" text="Custom"></option>
+			</field>		
+	
+			<field name="kenburn_startpos"
+				  type="custom"
+				  custom_type="kenburns_position"
+				  default="random,random" 
+				  label="Image Start Position" 
+				  description="The start position of the image."
+			 />
+
+			<field name="kenburn_endpos"
+				  type="custom"
+				  custom_type="kenburns_position"
+				  default="random,random" 
+				  label="Image End Position" 
+				  description="The end position of the image."
+			 />
+
+			<field name="zoom_type" 
+				type="radio" 
+				default="random" 
+				label="Zoom Type" 
+				description="The way of zooming">
+			  <option value="random" text="Random"></option>
+			  <option value="in" text="In"></option>
+			  <option value="out" text="Out"></option>
+			</field>		
+			
+			<field name="zoom_factor" 
+				type="text"
+				label="Zoom Factor"
+				class="zoomfact-text"
+				default="random"
+				description="Depending on Zoom it will start or end with this Zooming Factor. 1 = no zoom. 1.2 = 120%, 1.5=150% etc... and random"
+			/>
+			
+			<field name="panduration" 
+				type="text"
+				label="Pan Duration"
+				class="small-text"
+				default="5"
+				description="How long is the Pan Movement active in seconds. (if this smaller than Timer in Options, than Slide Duration will be reduced to the same like transition time."
+			/>
+
+			<field name="effect_type" 
+				type="list" 
+				default="blur"
+				label="Color Effect" 
+				description="The color transition effect. The 'default' take the default effect from slider settings.">
+			  <option value="default" text="Default"></option>
+			  <option value="none" text="No Effect"></option>
+			  <option value="blur" text="Blur"></option>
+			  <option value="bw" text="Black &amp; White"></option>
+			  <option value="bright" text="Bright"></option>
+			  <option value="dark" text="Dark"></option>
+			  <option value="edge" text="Edge"></option>
+			  <option value="emboss" text="Emboss"></option>
+			  <option value="mean" text="Mean"></option>
+			</field>		
+			
+			<field name="color_transition" 
+				type="text"
+				label="Color Transition Duration"
+				class="small-text"
+				default="4"
+				description="How long the image color effect last"
+			/>
+			
+			
+		</fieldset>
+			
+	</fields>

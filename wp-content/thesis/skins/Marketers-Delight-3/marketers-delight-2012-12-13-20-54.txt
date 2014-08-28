@@ -1,0 +1,538 @@
+a:2:{s:4:"data";a:7:{s:5:"boxes";a:50:{s:21:"thesis_html_container";a:23:{s:32:"thesis_html_container_1349943201";a:3:{s:4:"html";s:6:"header";s:5:"class";s:11:"header-area";s:5:"_name";s:11:"Header Area";}s:32:"thesis_html_container_1349943223";a:2:{s:5:"class";s:4:"page";s:5:"_name";s:18:"Page (content box)";}s:32:"thesis_html_container_1349947003";a:2:{s:5:"class";s:4:"page";s:5:"_name";s:18:"Page (header area)";}s:32:"thesis_html_container_1349947022";a:3:{s:4:"html";s:7:"section";s:5:"class";s:7:"content";s:5:"_name";s:7:"Content";}s:32:"thesis_html_container_1349947143";a:2:{s:5:"class";s:13:"headline-area";s:5:"_name";s:8:"Headline";}s:32:"thesis_html_container_1349947168";a:2:{s:5:"class";s:6:"byline";s:5:"_name";s:6:"Byline";}s:32:"thesis_html_container_1349947518";a:3:{s:4:"html";s:5:"aside";s:5:"class";s:7:"sidebar";s:5:"_name";s:7:"Sidebar";}s:32:"thesis_html_container_1351221753";a:3:{s:4:"html";s:3:"nav";s:5:"class";s:15:"menu-main clear";s:5:"_name";s:9:"Main Menu";}s:32:"thesis_html_container_1351222691";a:2:{s:5:"class";s:4:"page";s:5:"_name";s:4:"Page";}s:32:"thesis_html_container_1351289629";a:3:{s:4:"html";s:6:"footer";s:5:"class";s:6:"footer";s:5:"_name";s:6:"Footer";}s:32:"thesis_html_container_1351289673";a:2:{s:5:"class";s:4:"page";s:5:"_name";s:13:"Page (footer)";}s:32:"thesis_html_container_1351290281";a:2:{s:5:"class";s:20:"footer-columns clear";s:5:"_name";s:15:"3 Column Footer";}s:32:"thesis_html_container_1351290323";a:2:{s:5:"class";s:16:"footer-col first";s:5:"_name";s:8:"Column 1";}s:32:"thesis_html_container_1351290416";a:2:{s:5:"class";s:10:"footer-col";s:5:"_name";s:8:"Column 2";}s:32:"thesis_html_container_1351290456";a:2:{s:5:"class";s:10:"footer-col";s:5:"_name";s:8:"Column 3";}s:32:"thesis_html_container_1351306708";a:2:{s:5:"class";s:16:"footer-copyright";s:5:"_name";s:9:"Copyright";}s:32:"thesis_html_container_1351565527";a:2:{s:5:"class";s:11:"content-box";s:5:"_name";s:11:"Content Box";}s:32:"thesis_html_container_1351581032";a:2:{s:5:"class";s:12:"comment-head";s:5:"_name";s:12:"Comment Head";}s:32:"thesis_html_container_1351621054";a:2:{s:5:"class";s:14:"post-nav clear";s:5:"_name";s:8:"Post Nav";}s:32:"thesis_html_container_1351888811";a:2:{s:2:"id";s:8:"res-menu";s:5:"_name";s:11:"Header Menu";}s:32:"thesis_html_container_1353434681";a:2:{s:5:"class";s:4:"page";s:5:"_name";s:4:"Page";}s:32:"thesis_html_container_1353525765";a:2:{s:5:"class";s:4:"page";s:5:"_name";s:4:"Page";}s:32:"thesis_html_container_1355254232";a:2:{s:5:"class";s:17:"archive-box entry";s:5:"_name";s:7:"Archive";}}s:18:"thesis_wp_nav_menu";a:2:{s:29:"thesis_wp_nav_menu_1349943257";a:3:{s:4:"menu";s:1:"3";s:10:"menu_class";s:11:"header-menu";s:5:"_name";s:11:"Header Menu";}s:29:"thesis_wp_nav_menu_1351221775";a:3:{s:4:"menu";s:1:"4";s:10:"menu_class";s:9:"main-menu";s:5:"_name";s:9:"Main Menu";}}s:26:"thesis_previous_posts_link";a:1:{s:26:"thesis_previous_posts_link";a:1:{s:4:"text";s:15:"← Older Posts";}}s:22:"thesis_next_posts_link";a:1:{s:22:"thesis_next_posts_link";a:1:{s:4:"text";s:15:"Newer Posts →";}}s:17:"thesis_site_title";a:1:{s:17:"thesis_site_title";a:1:{s:5:"class";s:4:"logo";}}s:15:"thesis_post_box";a:2:{s:26:"thesis_post_box_1351305760";a:3:{s:4:"html";s:7:"article";s:5:"class";s:5:"entry";s:5:"_name";s:12:"Entry (home)";}s:26:"thesis_post_box_1351579292";a:3:{s:4:"html";s:7:"article";s:5:"class";s:5:"entry";s:5:"_name";s:14:"Entry (single)";}}s:17:"thesis_wp_widgets";a:4:{s:28:"thesis_wp_widgets_1349947117";a:1:{s:5:"_name";s:15:"Sidebar Widgets";}s:28:"thesis_wp_widgets_1351290403";a:1:{s:5:"_name";s:15:"Footer Column 1";}s:28:"thesis_wp_widgets_1351290445";a:1:{s:5:"_name";s:15:"Footer Column 2";}s:28:"thesis_wp_widgets_1351290476";a:1:{s:5:"_name";s:15:"Footer Column 3";}}s:21:"kol_email_signup_lead";a:1:{s:32:"kol_email_signup_lead_1350107091";a:5:{s:13:"main_headline";s:62:"3 Ways Marketers Delight Can Immediately Improve Your Business";s:9:"main_copy";s:276:"It has a ton of things that will improve the way your site functions right out of the box. Of course, if you’re after good looks — it has that too.
+
+<ul>
+<li>Learn how to churk a chicken</li>
+<li>Do you got any video games?</li>
+<li>My name’s not Billy!</li>
+</ul>";s:15:"popout_headline";s:23:"Download My Free Report";s:10:"popout_box";s:1046:"It'll teach you all the cliche ways to be an Internet marketer, and stuff!
+
+<form method="post" action="http://www.aweber.com/scripts/addlead.pl"  >
+	<div style="display: none;">
+		<input type="hidden" name="meta_web_form_id" value="184233733" />
+		<input type="hidden" name="meta_split_id" value="" />
+		<input type="hidden" name="listname" value="kolakube" />
+		<input type="hidden" name="redirect" value="http://www.aweber.com/thankyou-coi.htm?m=text" id="redirect_8fb78b8c1d56730b21b4d6bb5dd321b3" />
+		<input type="hidden" name="meta_adtracking" value="Demos" />
+		<input type="hidden" name="meta_message" value="1" />
+		<input type="hidden" name="meta_required" value="name,email" />
+		<input type="hidden" name="meta_tooltip" value="" />
+	</div>
+		<input type="text" name="name" class="name" placeholder="Enter your name" tabindex="400" />
+
+		<input class="email" type="text" name="email" placeholder="Enter your email" tabindex="401" />
+
+		<input name="submit" type="submit" value="Signup Now!" tabindex="402" />
+</form>";s:5:"_name";s:22:"Email Signup Page Lead";}}s:25:"kol_email_signup_lead_box";a:1:{s:36:"kol_email_signup_lead_box_1350111038";a:5:{s:13:"main_headline";s:62:"3 Ways Marketers Delight Can Immediately Improve Your Business";s:9:"main_copy";s:276:"It has a ton of things that will improve the way your site functions right out of the box. Of course, if you’re after good looks — it has that too.
+
+<ul>
+<li>Learn how to churk a chicken</li>
+<li>Do you got any video games?</li>
+<li>My name’s not Billy!</li>
+</ul>";s:15:"popout_headline";s:23:"Download My Free Report";s:10:"popout_box";s:1046:"It'll teach you all the cliche ways to be an Internet marketer, and stuff!
+
+<form method="post" action="http://www.aweber.com/scripts/addlead.pl"  >
+	<div style="display: none;">
+		<input type="hidden" name="meta_web_form_id" value="184233733" />
+		<input type="hidden" name="meta_split_id" value="" />
+		<input type="hidden" name="listname" value="kolakube" />
+		<input type="hidden" name="redirect" value="http://www.aweber.com/thankyou-coi.htm?m=text" id="redirect_8fb78b8c1d56730b21b4d6bb5dd321b3" />
+		<input type="hidden" name="meta_adtracking" value="Demos" />
+		<input type="hidden" name="meta_message" value="1" />
+		<input type="hidden" name="meta_required" value="name,email" />
+		<input type="hidden" name="meta_tooltip" value="" />
+	</div>
+		<input type="text" name="name" class="name" placeholder="Enter your name" tabindex="400" />
+
+		<input class="email" type="text" name="email" placeholder="Enter your email" tabindex="401" />
+
+		<input name="submit" type="submit" value="Signup Now!" tabindex="402" />
+</form>";s:5:"_name";s:17:"Email Signup Lead";}}s:13:"kol_orbs_lead";a:1:{s:24:"kol_orbs_lead_1350972477";a:4:{s:13:"lead_headline";s:99:"See Why Marketers Delight 3 is the Perfect Thesis Skin<br />for Marketing Just About... Anything!  ";s:12:"lead_subtext";s:66:"The most popular features of Marketers Delight 3 would have to be:";s:6:"_admin";a:1:{s:4:"open";s:1:"1";}s:5:"_name";s:20:"Orbs Page Lead (MD3)";}}s:11:"kol_orb_one";a:1:{s:36:"kol_orbs_lead_1350972477_kol_orb_one";a:6:{s:11:"orb_1_class";s:10:"ayo-vinnie";s:10:"orb_1_link";s:11:"#yeahvinnie";s:10:"orb_1_icon";s:1:"K";s:11:"orb_1_title";s:12:"Landing Page";s:10:"orb_1_desc";s:31:"Built-in landing page templates";s:7:"_parent";s:24:"kol_orbs_lead_1350972477";}}s:11:"kol_orb_two";a:1:{s:36:"kol_orbs_lead_1350972477_kol_orb_two";a:5:{s:10:"orb_2_link";s:7:"#link-2";s:10:"orb_2_icon";s:1:"H";s:11:"orb_2_title";s:10:"Page Leads";s:10:"orb_2_desc";s:35:"Built-in feature boxes that convert";s:7:"_parent";s:24:"kol_orbs_lead_1350972477";}}s:13:"kol_orb_three";a:1:{s:38:"kol_orbs_lead_1350972477_kol_orb_three";a:6:{s:11:"orb_3_class";s:7:"class-3";s:10:"orb_3_link";s:6:"link-3";s:10:"orb_3_icon";s:1:"N";s:11:"orb_3_title";s:11:"Post Styles";s:10:"orb_3_desc";s:41:"I'll see about adding shortcodes and shit";s:7:"_parent";s:24:"kol_orbs_lead_1350972477";}}s:12:"kol_orb_four";a:1:{s:37:"kol_orbs_lead_1350972477_kol_orb_four";a:6:{s:11:"orb_4_class";s:7:"class-4";s:10:"orb_4_link";s:6:"link-4";s:10:"orb_4_icon";s:1:"4";s:11:"orb_4_title";s:10:"Headline 4";s:10:"orb_4_desc";s:11:"paragraph 4";s:7:"_parent";s:24:"kol_orbs_lead_1350972477";}}s:22:"kol_feature_funnel_box";a:1:{s:33:"kol_feature_funnel_box_1351179192";a:2:{s:6:"_admin";a:1:{s:4:"open";s:1:"1";}s:5:"_name";s:14:"Feature Funnel";}}s:14:"kol_funnel_one";a:1:{s:48:"kol_feature_funnel_box_1351179192_kol_funnel_one";a:6:{s:13:"funnel_1_icon";s:1:"L";s:14:"funnel_1_title";s:12:"Design Tools";s:13:"funnel_1_desc";s:125:"Spotlight has killer design tools built right in, like color pickers, icon fonts & integration with Thesis’ design options.";s:15:"funnel_1_button";s:24:"Click Here to Learn More";s:20:"funnel_1_button_link";s:7:"#link-1";s:7:"_parent";s:33:"kol_feature_funnel_box_1351179192";}}s:14:"kol_funnel_two";a:1:{s:48:"kol_feature_funnel_box_1351179192_kol_funnel_two";a:6:{s:13:"funnel_2_icon";s:1:"h";s:14:"funnel_2_title";s:12:"Funnel Boxes";s:13:"funnel_2_desc";s:115:"Visitors need something to do, and with built-in funnel boxes, Spotlight ensures they know just where to go next.
+";s:15:"funnel_2_button";s:24:"Click Here to Learn More";s:20:"funnel_2_button_link";s:7:"#link-2";s:7:"_parent";s:33:"kol_feature_funnel_box_1351179192";}}s:16:"kol_funnel_three";a:1:{s:50:"kol_feature_funnel_box_1351179192_kol_funnel_three";a:6:{s:13:"funnel_3_icon";s:1:"M";s:14:"funnel_3_title";s:14:"Portfolio Page";s:13:"funnel_3_desc";s:90:"Create a beautiful portfolio-like page to show off your latest work, projects and clients.";s:15:"funnel_3_button";s:24:"Click Here to Learn More";s:20:"funnel_3_button_link";s:7:"#link-3";s:7:"_parent";s:33:"kol_feature_funnel_box_1351179192";}}s:19:"kol_funnel_headline";a:1:{s:53:"kol_feature_funnel_box_1351179192_kol_funnel_headline";a:3:{s:13:"lead_headline";s:38:"Throw Your Business into the Spotlight";s:12:"lead_subtext";s:177:"Spotlight is the perfect Thesis skin for anyone looking to score more clients, show off their creative skills or funnel viewers to critical landing points throughout their site.";s:7:"_parent";s:33:"kol_feature_funnel_box_1351179192";}}s:15:"thesis_text_box";a:2:{s:26:"thesis_text_box_1351290497";a:3:{s:4:"text";s:36:"Copyright © 2012 your awesome site!";s:4:"html";s:4:"none";s:5:"_name";s:9:"Copyright";}s:26:"thesis_text_box_1351889519";a:5:{s:4:"text";s:101:"<a class=\"res res-off icon\" href=\"#res-menu\">+</a>
+<a class=\"res res-on icon\" href=\"#\">-</a>";s:6:"filter";a:1:{s:2:"on";b:1;}s:4:"html";s:4:"none";s:5:"class";s:7:"res-acc";s:5:"_name";s:10:"Responsive";}}s:21:"kol_landing_pages_box";a:1:{s:32:"kol_landing_pages_box_1351544433";a:2:{s:6:"_admin";a:1:{s:4:"open";s:1:"1";}s:5:"_name";s:7:"Opening";}}s:16:"kol_landing_2col";a:1:{s:43:"kol_landing_box_1351546031_kol_landing_2col";a:5:{s:13:"round-corners";s:9:"round-top";s:13:"headline_html";s:2:"h1";s:8:"headline";s:65:"See How Marketers Delight 3 Can Immediately Improve Your Business";s:7:"content";s:459:"In all honesty, Marketers Delight is a beast of a theme.
+
+It has a ton of things that will improve the way your site functions right out of the box. Of course, if you’re after good looks — it has that too.
+
+Really quickly, I want to share with you 3 things about Marketers Delight that will serve as an instant upgrade to your site. You can read more about the theme back at Kolakube, but I really want to bring these 3 things to your attention below:";s:7:"_parent";s:26:"kol_landing_box_1351546031";}}s:15:"thesis_comments";a:1:{s:26:"thesis_comments_1351577868";a:2:{s:5:"class";s:8:"comments";s:5:"_name";s:8:"Comments";}}s:21:"thesis_comment_avatar";a:1:{s:48:"thesis_comments_1351577868_thesis_comment_avatar";a:2:{s:4:"size";s:2:"50";s:7:"_parent";s:26:"thesis_comments_1351577868";}}s:19:"thesis_comment_form";a:1:{s:30:"thesis_comment_form_1351581381";a:1:{s:5:"_name";s:12:"Comment Form";}}s:27:"thesis_comment_form_comment";a:1:{s:58:"thesis_comment_form_1351581381_thesis_comment_form_comment";a:3:{s:5:"label";a:1:{s:4:"show";b:0;}s:4:"rows";s:1:"9";s:7:"_parent";s:30:"thesis_comment_form_1351581381";}}s:25:"thesis_comment_form_email";a:1:{s:56:"thesis_comment_form_1351581381_thesis_comment_form_email";a:3:{s:5:"label";a:1:{s:4:"show";b:0;}s:11:"placeholder";s:16:"Enter your email";s:7:"_parent";s:30:"thesis_comment_form_1351581381";}}s:24:"thesis_comment_form_name";a:1:{s:55:"thesis_comment_form_1351581381_thesis_comment_form_name";a:3:{s:5:"label";a:1:{s:4:"show";b:0;}s:11:"placeholder";s:15:"Enter your name";s:7:"_parent";s:30:"thesis_comment_form_1351581381";}}s:23:"thesis_comment_form_url";a:1:{s:54:"thesis_comment_form_1351581381_thesis_comment_form_url";a:3:{s:5:"label";a:1:{s:4:"show";b:0;}s:11:"placeholder";s:11:"Website URL";s:7:"_parent";s:30:"thesis_comment_form_1351581381";}}s:26:"thesis_comment_form_cancel";a:1:{s:57:"thesis_comment_form_1351581381_thesis_comment_form_cancel";a:2:{s:4:"text";s:6:"Cancel";s:7:"_parent";s:30:"thesis_comment_form_1351581381";}}s:26:"thesis_comment_form_submit";a:1:{s:57:"thesis_comment_form_1351581381_thesis_comment_form_submit";a:2:{s:4:"text";s:12:"Post comment";s:7:"_parent";s:30:"thesis_comment_form_1351581381";}}s:21:"thesis_next_post_link";a:1:{s:21:"thesis_next_post_link";a:2:{s:4:"html";s:1:"p";s:5:"intro";s:10:"Next Post:";}}s:25:"thesis_previous_post_link";a:1:{s:25:"thesis_previous_post_link";a:2:{s:4:"html";s:1:"p";s:5:"intro";s:14:"Previous Post:";}}s:19:"thesis_comments_nav";a:1:{s:19:"thesis_comments_nav";a:2:{s:8:"previous";s:21:"← Previous comments";s:4:"next";s:17:"Next Comments →";}}s:12:"kol_logo_box";a:1:{s:12:"kol_logo_box";a:3:{s:5:"width";s:3:"347";s:6:"height";s:2:"45";s:5:"image";a:3:{s:3:"url";s:64:"http://ayovinnie.com/wp-content/uploads/2012/11/default-logo.gif";s:5:"width";i:347;s:6:"height";i:45;}}}s:16:"kol_pricing_lead";a:1:{s:27:"kol_pricing_lead_1353728221";a:2:{s:6:"_admin";a:1:{s:4:"open";b:1;}s:5:"_name";s:23:"Pricing Page Lead (MD3)";}}s:16:"kol_lead_content";a:8:{s:72:"kol_pricing_lead_1353728221_kol_pricing_lead_column_one_kol_lead_content";a:3:{s:8:"headline";s:13:"Basic Divided";s:11:"description";s:79:"The most basic of basically everything that is basic & oftentimes not so basic.";s:7:"_parent";s:55:"kol_pricing_lead_1353728221_kol_pricing_lead_column_one";}s:44:"kol_pricing_lead_1353728221_kol_lead_content";a:3:{s:8:"headline";s:39:"Check Out Our Overpriced Pricing Plans:";s:11:"description";s:81:"We’ll never admit it, but we damn sure want you to buy our most expensive plan.";s:7:"_parent";s:27:"kol_pricing_lead_1353728221";}s:72:"kol_pricing_lead_1353728221_kol_pricing_lead_column_two_kol_lead_content";a:3:{s:8:"headline";s:14:"Advanced Minus";s:11:"description";s:85:"Our most advanced package, MINUS all the bullsh*t! That’s right, we wouldn’t lie.";s:7:"_parent";s:55:"kol_pricing_lead_1353728221_kol_pricing_lead_column_two";}s:74:"kol_pricing_lead_1353728221_kol_pricing_lead_column_three_kol_lead_content";a:3:{s:8:"headline";s:19:"Average Plus (wtf?)";s:11:"description";s:61:"The most highly renowned plan for the average business owner.";s:7:"_parent";s:57:"kol_pricing_lead_1353728221_kol_pricing_lead_column_three";}s:48:"kol_pricing_lead_box_1353785641_kol_lead_content";a:3:{s:8:"headline";s:31:"Skin Membership + Pricing Plans";s:11:"description";s:91:"Check out all Kolakube has to offer, bundled together with some killer membership benefits:";s:7:"_parent";s:31:"kol_pricing_lead_box_1353785641";}s:76:"kol_pricing_lead_box_1353785641_kol_pricing_lead_column_one_kol_lead_content";a:3:{s:8:"headline";s:10:"Basic Plus";s:11:"description";s:83:"A plan so basic, it will make your head spin! Basically, yeah, that\'s all it does.";s:7:"_parent";s:59:"kol_pricing_lead_box_1353785641_kol_pricing_lead_column_one";}s:76:"kol_pricing_lead_box_1353785641_kol_pricing_lead_column_two_kol_lead_content";a:3:{s:8:"headline";s:13:"Advanced Plus";s:11:"description";s:77:"This is our most popular and most expensive plan. But so worth it. Seriously!";s:7:"_parent";s:59:"kol_pricing_lead_box_1353785641_kol_pricing_lead_column_two";}s:78:"kol_pricing_lead_box_1353785641_kol_pricing_lead_column_three_kol_lead_content";a:3:{s:8:"headline";s:13:"The Last Plan";s:11:"description";s:79:"This is the last plan we have to offer, and there\'s not much special about it.";s:7:"_parent";s:61:"kol_pricing_lead_box_1353785641_kol_pricing_lead_column_three";}}s:10:"kol_button";a:18:{s:66:"kol_pricing_lead_1353728221_kol_pricing_lead_column_one_kol_button";a:5:{s:2:"id";s:6:"vinnie";s:5:"color";s:4:"gray";s:4:"text";s:31:"Click here to learn more, sucka";s:4:"link";s:6:"#link1";s:7:"_parent";s:55:"kol_pricing_lead_1353728221_kol_pricing_lead_column_one";}s:66:"kol_pricing_lead_1353728221_kol_pricing_lead_column_two_kol_button";a:4:{s:5:"color";s:4:"blue";s:4:"text";s:31:"Click here to learn more, sucka";s:4:"link";s:6:"#link2";s:7:"_parent";s:55:"kol_pricing_lead_1353728221_kol_pricing_lead_column_two";}s:68:"kol_pricing_lead_1353728221_kol_pricing_lead_column_three_kol_button";a:4:{s:5:"color";s:4:"gray";s:4:"text";s:26:"Click to learn more, sucka";s:4:"link";s:6:"#link3";s:7:"_parent";s:57:"kol_pricing_lead_1353728221_kol_pricing_lead_column_three";}s:65:"kol_landing_box_1353790052_kol_pricing_lead_column_one_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:54:"kol_landing_box_1353790052_kol_pricing_lead_column_one";}s:57:"kol_pricing_lead_box_1353785641_kol_column_one_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:46:"kol_pricing_lead_box_1353785641_kol_column_one";}s:70:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_one_kol_button";a:4:{s:5:"color";s:4:"gray";s:4:"text";s:26:"Click to learn more, sucka";s:4:"link";s:6:"#link1";s:7:"_parent";s:59:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_one";}s:70:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_two_kol_button";a:4:{s:5:"color";s:4:"blue";s:4:"text";s:26:"Click to learn more, sucka";s:4:"link";s:6:"#link2";s:7:"_parent";s:59:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_two";}s:72:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_three_kol_button";a:4:{s:5:"color";s:4:"gray";s:4:"text";s:26:"Click to learn more, sucka";s:4:"link";s:6:"#link3";s:7:"_parent";s:61:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_three";}s:67:"thesis_post_box_1351305760_kol_three_cols_kol_column_one_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:56:"thesis_post_box_1351305760_kol_three_cols_kol_column_one";}s:67:"thesis_post_box_1351305760_kol_three_cols_kol_column_two_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:56:"thesis_post_box_1351305760_kol_three_cols_kol_column_two";}s:69:"thesis_post_box_1351305760_kol_three_cols_kol_column_three_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:58:"thesis_post_box_1351305760_kol_three_cols_kol_column_three";}s:67:"thesis_post_box_1351571051_kol_three_cols_kol_column_one_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:56:"thesis_post_box_1351571051_kol_three_cols_kol_column_one";}s:67:"thesis_post_box_1351571051_kol_three_cols_kol_column_two_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:56:"thesis_post_box_1351571051_kol_three_cols_kol_column_two";}s:69:"thesis_post_box_1351571051_kol_three_cols_kol_column_three_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:58:"thesis_post_box_1351571051_kol_three_cols_kol_column_three";}s:67:"thesis_post_box_1351579292_kol_three_cols_kol_column_one_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:56:"thesis_post_box_1351579292_kol_three_cols_kol_column_one";}s:67:"thesis_post_box_1351579292_kol_three_cols_kol_column_two_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:56:"thesis_post_box_1351579292_kol_three_cols_kol_column_two";}s:69:"thesis_post_box_1351579292_kol_three_cols_kol_column_three_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:58:"thesis_post_box_1351579292_kol_three_cols_kol_column_three";}s:42:"kol_product_lead_box_1354997509_kol_button";a:2:{s:5:"color";s:3:"red";s:7:"_parent";s:31:"kol_product_lead_box_1354997509";}}s:29:"kol_pricing_lead_feature_list";a:6:{s:85:"kol_pricing_lead_1353728221_kol_pricing_lead_column_one_kol_pricing_lead_feature_list";a:7:{s:11:"feature_one";s:42:"6 month access to all current Thesis skins";s:11:"feature_two";s:38:"Free updates on all skins for 6 months";s:13:"feature_three";s:37:"Full access to the members-only forum";s:12:"feature_four";s:49:"Full access to video1 + article tutorials library";s:12:"feature_five";s:39:"Unlimited skin uses on any site you own";s:11:"feature_six";s:20:"What would Vinnie do";s:7:"_parent";s:55:"kol_pricing_lead_1353728221_kol_pricing_lead_column_one";}s:85:"kol_pricing_lead_1353728221_kol_pricing_lead_column_two_kol_pricing_lead_feature_list";a:9:{s:11:"feature_one";s:42:"Yearly access to all current Thesis skins ";s:11:"feature_two";s:45:"Free updates on all skins for an entire year ";s:13:"feature_three";s:38:"Full access to the members-only forum ";s:12:"feature_four";s:49:"Full access to video + article tutorials library ";s:12:"feature_five";s:40:"Unlimited skin uses on any site you own ";s:11:"feature_six";s:26:"Footer attribution removal";s:13:"feature_seven";s:32:"Photoshop files for select skins";s:13:"feature_eight";s:29:"Save 20% on renewals for life";s:7:"_parent";s:55:"kol_pricing_lead_1353728221_kol_pricing_lead_column_two";}s:87:"kol_pricing_lead_1353728221_kol_pricing_lead_column_three_kol_pricing_lead_feature_list";a:7:{s:11:"feature_one";s:42:"6 month access to all current Thesis skins";s:11:"feature_two";s:38:"Free updates on all skins for 6 months";s:13:"feature_three";s:37:"Full access to the members-only forum";s:12:"feature_four";s:49:"Full access to video1 + article tutorials library";s:12:"feature_five";s:39:"Unlimited skin uses on any site you own";s:11:"feature_six";s:26:"Another \"vinnie\" feature";s:7:"_parent";s:57:"kol_pricing_lead_1353728221_kol_pricing_lead_column_three";}s:89:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_one_kol_pricing_lead_feature_list";a:7:{s:11:"feature_one";s:41:"Yearly access to all current Thesis skins";s:11:"feature_two";s:44:"Free updates on all skins for an entire year";s:13:"feature_three";s:37:"Full access to the members-only forum";s:12:"feature_four";s:49:"Full access to video1 + article tutorials library";s:12:"feature_five";s:39:"Unlimited skin uses on any site you own";s:11:"feature_six";s:26:"Footer attribution removal";s:7:"_parent";s:59:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_one";}s:89:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_two_kol_pricing_lead_feature_list";a:9:{s:11:"feature_one";s:29:"Save 20% on renewals for life";s:11:"feature_two";s:32:"Photoshop files for select skins";s:13:"feature_three";s:26:"Footer attribution removal";s:12:"feature_four";s:39:"Unlimited skin uses on any site you own";s:12:"feature_five";s:49:"Full access to video1 + article tutorials library";s:11:"feature_six";s:37:"Full access to the members-only forum";s:13:"feature_seven";s:44:"Free updates on all skins for an entire year";s:13:"feature_eight";s:41:"Yearly access to all current Thesis skins";s:7:"_parent";s:59:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_two";}s:91:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_three_kol_pricing_lead_feature_list";a:7:{s:11:"feature_one";s:35:"Too lazy to copy and paste features";s:11:"feature_two";s:27:"Here\'s a secondary feature";s:13:"feature_three";s:40:"I\'m gonna keep going with more features";s:12:"feature_four";s:32:"We\'re at the fourth feature now";s:12:"feature_five";s:35:"I just need one more after this one";s:11:"feature_six";s:41:"Boom. All done. 6/8 features written down";s:7:"_parent";s:61:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_three";}}s:29:"kol_pricing_lead_column_three";a:2:{s:57:"kol_pricing_lead_1353728221_kol_pricing_lead_column_three";a:2:{s:6:"spacer";s:10:"col-spacer";s:7:"_parent";s:27:"kol_pricing_lead_1353728221";}s:61:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_three";a:2:{s:6:"spacer";s:10:"col-spacer";s:7:"_parent";s:31:"kol_pricing_lead_box_1354291282";}}s:17:"kol_pricing_badge";a:6:{s:73:"kol_pricing_lead_1353728221_kol_pricing_lead_column_two_kol_pricing_badge";a:2:{s:5:"price";s:3:"$97";s:7:"_parent";s:55:"kol_pricing_lead_1353728221_kol_pricing_lead_column_two";}s:75:"kol_pricing_lead_1353728221_kol_pricing_lead_column_three_kol_pricing_badge";a:2:{s:5:"price";s:4:"$197";s:7:"_parent";s:57:"kol_pricing_lead_1353728221_kol_pricing_lead_column_three";}s:73:"kol_pricing_lead_1353728221_kol_pricing_lead_column_one_kol_pricing_badge";a:2:{s:5:"price";s:3:"$37";s:7:"_parent";s:55:"kol_pricing_lead_1353728221_kol_pricing_lead_column_one";}s:77:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_one_kol_pricing_badge";a:2:{s:5:"price";s:3:"$97";s:7:"_parent";s:59:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_one";}s:77:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_two_kol_pricing_badge";a:2:{s:5:"price";s:4:"$597";s:7:"_parent";s:59:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_two";}s:79:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_three_kol_pricing_badge";a:2:{s:5:"price";s:4:"$197";s:7:"_parent";s:61:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_three";}}s:27:"kol_pricing_lead_column_one";a:2:{s:55:"kol_pricing_lead_1353728221_kol_pricing_lead_column_one";a:2:{s:6:"spacer";s:10:"col-spacer";s:7:"_parent";s:27:"kol_pricing_lead_1353728221";}s:59:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_one";a:2:{s:6:"spacer";s:10:"col-spacer";s:7:"_parent";s:31:"kol_pricing_lead_box_1354291282";}}s:14:"thesis_wp_loop";a:1:{s:14:"thesis_wp_loop";a:1:{s:6:"_admin";a:1:{s:4:"open";b:0;}}}s:8:"kol_icon";a:2:{s:55:"kol_pricing_lead_box_1353785641_kol_column_one_kol_icon";a:2:{s:4:"icon";s:1:"d";s:7:"_parent";s:46:"kol_pricing_lead_box_1353785641_kol_column_one";}s:63:"kol_product_lead_box_1354915199_kol_product_lead_email_kol_icon";a:2:{s:4:"icon";s:1:"@";s:7:"_parent";s:54:"kol_product_lead_box_1354915199_kol_product_lead_email";}}s:19:"kol_landing_content";a:1:{s:46:"kol_landing_box_1353794581_kol_landing_content";a:2:{s:13:"round_corners";s:9:"round-top";s:7:"_parent";s:26:"kol_landing_box_1353794581";}}s:17:"kol_headline_desc";a:18:{s:77:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_one_kol_headline_desc";a:4:{s:13:"headline_html";s:2:"h1";s:8:"headline";s:10:"Basic Plus";s:11:"description";s:61:"Basically, our most basic blank of all basic plans out there.";s:7:"_parent";s:59:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_one";}s:77:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_two_kol_headline_desc";a:3:{s:8:"headline";s:16:"Advanced Complex";s:11:"description";s:76:"This is such an expensive plan, but it\'ll add so much value to your life...";s:7:"_parent";s:59:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_two";}s:79:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_three_kol_headline_desc";a:4:{s:13:"headline_html";s:2:"h1";s:8:"headline";s:12:"Medium Minus";s:11:"description";s:87:"Now, I\'m just getting ridiculous with these names. All in the name of testing, though.";s:7:"_parent";s:61:"kol_pricing_lead_box_1354291282_kol_pricing_lead_column_three";}s:78:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_one_kol_headline_desc";a:3:{s:8:"headline";s:12:"Funnel Box 1";s:11:"description";s:94:"Did you know that when people click links on one page, they are generally taken to a new page?";s:7:"_parent";s:60:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_one";}s:78:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_two_kol_headline_desc";a:3:{s:8:"headline";s:18:"Another Funnel Box";s:11:"description";s:105:"Did you know that 98% of the facts listed in boxes like these are false? Or are they? Who actually knows.";s:7:"_parent";s:60:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_two";}s:80:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_three_kol_headline_desc";a:3:{s:8:"headline";s:20:"The Third Funnel Box";s:11:"description";s:94:"This is the last time I will overdo it with interesting facts and such on stuff about as that.";s:7:"_parent";s:62:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_three";}s:75:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_one_kol_headline_desc";a:4:{s:13:"headline_html";s:2:"h4";s:8:"headline";s:9:"Learn MD3";s:11:"description";s:60:"See all the great features of Marketers Delight 3 for Thesis";s:7:"_parent";s:57:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_one";}s:75:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_two_kol_headline_desc";a:4:{s:13:"headline_html";s:2:"h4";s:8:"headline";s:14:"Any Questions?";s:11:"description";s:69:"Do you this is the right Thesis skin for you and your business? I do.";s:7:"_parent";s:57:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_two";}s:77:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_three_kol_headline_desc";a:3:{s:8:"headline";s:8:"Buy MD3!";s:11:"description";s:68:"Once you have made your decision, go ahead and buy this killer skin!";s:7:"_parent";s:59:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_three";}s:103:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_one_kol_headline_desc";a:4:{s:13:"headline_html";s:2:"h1";s:8:"headline";s:10:"Basic Plan";s:11:"description";s:37:"This plan is just so damn basic, man.";s:7:"_parent";s:85:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_one";}s:103:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_two_kol_headline_desc";a:3:{s:8:"headline";s:10:"98giubhoij";s:11:"description";s:13:"poguiyvuijokp";s:7:"_parent";s:85:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_two";}s:105:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_three_kol_headline_desc";a:3:{s:8:"headline";s:17:"ko8i7fyuvubipjo[k";s:11:"description";s:21:"0u9y8t7fuygihijofg54t";s:7:"_parent";s:87:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_three";}s:74:"kol_landing_box_1354829704_kol_three_cols_kol_column_one_kol_headline_desc";a:3:{s:8:"headline";s:34:"Here\'s a Mini Headline For Vinnie";s:11:"description";s:80:"And while we\'re at it, how about some goddamn description text?! No, forget it.";s:7:"_parent";s:56:"kol_landing_box_1354829704_kol_three_cols_kol_column_one";}s:74:"kol_landing_box_1354829704_kol_three_cols_kol_column_two_kol_headline_desc";a:3:{s:8:"headline";s:25:"The Headlines Keep Coming";s:11:"description";s:100:"jiohewfew fewfjo fewjf wefije fklj flkfj fifjfoif ijofjfiwe fweijfwe fieqjf. I guess Vinnie\'s here.";s:7:"_parent";s:56:"kol_landing_box_1354829704_kol_three_cols_kol_column_two";}s:76:"kol_landing_box_1354829704_kol_three_cols_kol_column_three_kol_headline_desc";a:3:{s:8:"headline";s:25:"The Headlines Keep Coming";s:11:"description";s:79:"HUfheouf fiej piejfijef ioh fiohfeoihefw jipwef ioewfioh, ayo vinnie you there?";s:7:"_parent";s:58:"kol_landing_box_1354829704_kol_three_cols_kol_column_three";}s:72:"kol_landing_box_1354829704_kol_two_cols_kol_column_one_kol_headline_desc";a:3:{s:8:"headline";s:30:"Here\'s A Pretty Sexy Headline";s:11:"description";s:149:"And of course, what would a headline be without a description? I don\'t know, you would have to ask Vinnie about that after he\'s done eating dinner.";s:7:"_parent";s:54:"kol_landing_box_1354829704_kol_two_cols_kol_column_one";}s:72:"kol_landing_box_1354829704_kol_two_cols_kol_column_two_kol_headline_desc";a:3:{s:8:"headline";s:35:"The King Of Headlines Is Right Here";s:11:"description";s:149:"And of course, what would a headline be without a description? I don\'t know, you would have to ask Vinnie about that after he\'s done eating dinner.";s:7:"_parent";s:54:"kol_landing_box_1354829704_kol_two_cols_kol_column_two";}s:86:"kol_product_lead_box_1354997509_kol_product_lead_email_kol_email_box_kol_headline_desc";a:3:{s:8:"headline";s:16:"Get Free Updates";s:11:"description";s:103:"By joining my email list, you will learn everything you need to know about everything there is to know.";s:7:"_parent";s:68:"kol_product_lead_box_1354997509_kol_product_lead_email_kol_email_box";}}s:22:"kol_product_lead_image";a:1:{s:33:"kol_product_lead_image_1355004304";a:0:{}}s:18:"thesis_post_author";a:2:{s:45:"thesis_post_box_1351305760_thesis_post_author";a:2:{s:5:"intro";s:2:"by";s:7:"_parent";s:26:"thesis_post_box_1351305760";}s:45:"thesis_post_box_1351579292_thesis_post_author";a:2:{s:5:"intro";s:2:"by";s:7:"_parent";s:26:"thesis_post_box_1351579292";}}s:16:"thesis_post_edit";a:1:{s:43:"thesis_post_box_1351305760_thesis_post_edit";a:2:{s:4:"text";s:8:" [edit]";s:7:"_parent";s:26:"thesis_post_box_1351305760";}}s:20:"thesis_post_headline";a:1:{s:47:"thesis_post_box_1351305760_thesis_post_headline";a:3:{s:4:"html";s:2:"h2";s:4:"link";a:1:{s:2:"on";b:1;}s:7:"_parent";s:26:"thesis_post_box_1351305760";}}}s:9:"templates";a:6:{s:4:"home";a:1:{s:5:"boxes";a:25:{s:16:"thesis_html_body";a:3:{i:0;s:32:"thesis_html_container_1349943201";i:1;s:32:"thesis_html_container_1351565527";i:2;s:32:"thesis_html_container_1351289629";}s:32:"thesis_html_container_1349943201";a:1:{i:0;s:32:"thesis_html_container_1349947003";}s:32:"thesis_html_container_1349947003";a:2:{i:0;s:17:"thesis_site_title";i:1;s:32:"thesis_html_container_1351888811";}s:32:"thesis_html_container_1351888811";a:2:{i:0;s:29:"thesis_wp_nav_menu_1349943257";i:1;s:26:"thesis_text_box_1351889519";}s:32:"thesis_html_container_1351565527";a:1:{i:0;s:32:"thesis_html_container_1349943223";}s:32:"thesis_html_container_1349943223";a:2:{i:0;s:32:"thesis_html_container_1349947022";i:1;s:32:"thesis_html_container_1349947518";}s:32:"thesis_html_container_1349947022";a:2:{i:0;s:14:"thesis_wp_loop";i:1;s:32:"thesis_html_container_1351621054";}s:14:"thesis_wp_loop";a:1:{i:0;s:26:"thesis_post_box_1351305760";}s:26:"thesis_post_box_1351305760";a:3:{i:0;s:32:"thesis_html_container_1349947143";i:1;s:48:"thesis_post_box_1351305760_thesis_post_thumbnail";i:2;s:46:"thesis_post_box_1351305760_thesis_post_content";}s:32:"thesis_html_container_1349947143";a:2:{i:0;s:47:"thesis_post_box_1351305760_thesis_post_headline";i:1;s:32:"thesis_html_container_1349947168";}s:32:"thesis_html_container_1349947168";a:1:{i:0;s:45:"thesis_post_box_1351305760_thesis_post_author";}s:32:"thesis_html_container_1351621054";a:2:{i:0;s:22:"thesis_next_posts_link";i:1;s:26:"thesis_previous_posts_link";}s:32:"thesis_html_container_1349947518";a:1:{i:0;s:28:"thesis_wp_widgets_1349947117";}s:32:"thesis_html_container_1351289629";a:1:{i:0;s:32:"thesis_html_container_1351289673";}s:32:"thesis_html_container_1351289673";a:2:{i:0;s:32:"thesis_html_container_1351290281";i:1;s:32:"thesis_html_container_1351306708";}s:32:"thesis_html_container_1351290281";a:3:{i:0;s:32:"thesis_html_container_1351290323";i:1;s:32:"thesis_html_container_1351290416";i:2;s:32:"thesis_html_container_1351290456";}s:32:"thesis_html_container_1351290323";a:1:{i:0;s:28:"thesis_wp_widgets_1351290403";}s:32:"thesis_html_container_1351290416";a:1:{i:0;s:28:"thesis_wp_widgets_1351290445";}s:32:"thesis_html_container_1351290456";a:1:{i:0;s:28:"thesis_wp_widgets_1351290476";}s:32:"thesis_html_container_1351306708";a:3:{i:0;s:15:"kol_attribution";i:1;s:26:"thesis_text_box_1351290497";i:2;s:18:"thesis_attribution";}s:32:"thesis_html_container_1351221753";a:1:{i:0;s:32:"thesis_html_container_1351222691";}s:32:"thesis_html_container_1351222691";a:1:{i:0;s:29:"thesis_wp_nav_menu_1351221775";}s:26:"thesis_post_box_1351579292";a:4:{i:0;s:47:"thesis_post_box_1351579292_thesis_post_headline";i:1;s:45:"thesis_post_box_1351579292_thesis_post_author";i:2;s:43:"thesis_post_box_1351579292_thesis_post_edit";i:3;s:46:"thesis_post_box_1351579292_thesis_post_content";}s:26:"thesis_comments_1351577868";a:5:{i:0;s:48:"thesis_comments_1351577868_thesis_comment_author";i:1;s:46:"thesis_comments_1351577868_thesis_comment_date";i:2;s:46:"thesis_comments_1351577868_thesis_comment_edit";i:3;s:46:"thesis_comments_1351577868_thesis_comment_text";i:4;s:47:"thesis_comments_1351577868_thesis_comment_reply";}s:30:"thesis_comment_form_1351581381";a:7:{i:0;s:56:"thesis_comment_form_1351581381_thesis_comment_form_title";i:1;s:57:"thesis_comment_form_1351581381_thesis_comment_form_cancel";i:2;s:55:"thesis_comment_form_1351581381_thesis_comment_form_name";i:3;s:56:"thesis_comment_form_1351581381_thesis_comment_form_email";i:4;s:54:"thesis_comment_form_1351581381_thesis_comment_form_url";i:5;s:58:"thesis_comment_form_1351581381_thesis_comment_form_comment";i:6;s:57:"thesis_comment_form_1351581381_thesis_comment_form_submit";}}}s:17:"custom_1351274696";a:3:{s:5:"title";s:18:"Basic Landing Page";s:7:"options";a:1:{s:16:"thesis_html_body";a:1:{s:5:"class";s:5:"basic";}}s:5:"boxes";a:14:{s:16:"thesis_html_body";a:3:{i:0;s:32:"thesis_html_container_1349943201";i:1;s:32:"thesis_html_container_1351565527";i:2;s:32:"thesis_html_container_1351289629";}s:32:"thesis_html_container_1349943201";a:1:{i:0;s:32:"thesis_html_container_1349947003";}s:32:"thesis_html_container_1349947003";a:1:{i:0;s:17:"thesis_site_title";}s:32:"thesis_html_container_1351565527";a:1:{i:0;s:32:"thesis_html_container_1349943223";}s:32:"thesis_html_container_1349943223";a:1:{i:0;s:32:"thesis_html_container_1349947022";}s:32:"thesis_html_container_1349947022";a:1:{i:0;s:14:"thesis_wp_loop";}s:14:"thesis_wp_loop";a:1:{i:0;s:26:"thesis_post_box_1351579292";}s:26:"thesis_post_box_1351579292";a:2:{i:0;s:32:"thesis_html_container_1349947143";i:1;s:46:"thesis_post_box_1351579292_thesis_post_content";}s:32:"thesis_html_container_1349947143";a:1:{i:0;s:47:"thesis_post_box_1351579292_thesis_post_headline";}s:32:"thesis_html_container_1351289629";a:1:{i:0;s:32:"thesis_html_container_1351289673";}s:32:"thesis_html_container_1351289673";a:1:{i:0;s:26:"thesis_text_box_1351290497";}s:26:"thesis_post_box_1351305760";a:1:{i:0;s:46:"thesis_post_box_1351305760_thesis_post_content";}s:26:"thesis_comments_1351577868";a:5:{i:0;s:48:"thesis_comments_1351577868_thesis_comment_author";i:1;s:46:"thesis_comments_1351577868_thesis_comment_date";i:2;s:46:"thesis_comments_1351577868_thesis_comment_edit";i:3;s:46:"thesis_comments_1351577868_thesis_comment_text";i:4;s:47:"thesis_comments_1351577868_thesis_comment_reply";}s:30:"thesis_comment_form_1351581381";a:7:{i:0;s:56:"thesis_comment_form_1351581381_thesis_comment_form_title";i:1;s:57:"thesis_comment_form_1351581381_thesis_comment_form_cancel";i:2;s:55:"thesis_comment_form_1351581381_thesis_comment_form_name";i:3;s:56:"thesis_comment_form_1351581381_thesis_comment_form_email";i:4;s:54:"thesis_comment_form_1351581381_thesis_comment_form_url";i:5;s:58:"thesis_comment_form_1351581381_thesis_comment_form_comment";i:6;s:57:"thesis_comment_form_1351581381_thesis_comment_form_submit";}}}s:17:"custom_1351312367";a:3:{s:5:"title";s:21:"Advanced Landing Page";s:7:"options";a:1:{s:16:"thesis_html_body";a:1:{s:5:"class";s:16:"advanced landing";}}s:5:"boxes";a:10:{s:16:"thesis_html_body";a:2:{i:0;s:32:"thesis_html_container_1349943201";i:1;s:32:"thesis_html_container_1351289629";}s:32:"thesis_html_container_1349943201";a:1:{i:0;s:32:"thesis_html_container_1349947003";}s:32:"thesis_html_container_1349947003";a:1:{i:0;s:17:"thesis_site_title";}s:32:"thesis_html_container_1351289629";a:1:{i:0;s:32:"thesis_html_container_1351289673";}s:32:"thesis_html_container_1351289673";a:1:{i:0;s:26:"thesis_text_box_1351290497";}s:14:"thesis_wp_loop";a:1:{i:0;s:26:"thesis_post_box_1351305760";}s:26:"thesis_post_box_1351305760";a:1:{i:0;s:46:"thesis_post_box_1351305760_thesis_post_content";}s:26:"thesis_post_box_1351579292";a:4:{i:0;s:47:"thesis_post_box_1351579292_thesis_post_headline";i:1;s:45:"thesis_post_box_1351579292_thesis_post_author";i:2;s:43:"thesis_post_box_1351579292_thesis_post_edit";i:3;s:46:"thesis_post_box_1351579292_thesis_post_content";}s:26:"thesis_comments_1351577868";a:5:{i:0;s:48:"thesis_comments_1351577868_thesis_comment_author";i:1;s:46:"thesis_comments_1351577868_thesis_comment_date";i:2;s:46:"thesis_comments_1351577868_thesis_comment_edit";i:3;s:46:"thesis_comments_1351577868_thesis_comment_text";i:4;s:47:"thesis_comments_1351577868_thesis_comment_reply";}s:30:"thesis_comment_form_1351581381";a:7:{i:0;s:56:"thesis_comment_form_1351581381_thesis_comment_form_title";i:1;s:57:"thesis_comment_form_1351581381_thesis_comment_form_cancel";i:2;s:55:"thesis_comment_form_1351581381_thesis_comment_form_name";i:3;s:56:"thesis_comment_form_1351581381_thesis_comment_form_email";i:4;s:54:"thesis_comment_form_1351581381_thesis_comment_form_url";i:5;s:58:"thesis_comment_form_1351581381_thesis_comment_form_comment";i:6;s:57:"thesis_comment_form_1351581381_thesis_comment_form_submit";}}}s:6:"single";a:1:{s:5:"boxes";a:26:{s:16:"thesis_html_body";a:3:{i:0;s:32:"thesis_html_container_1349943201";i:1;s:32:"thesis_html_container_1351565527";i:2;s:32:"thesis_html_container_1351289629";}s:32:"thesis_html_container_1349943201";a:1:{i:0;s:32:"thesis_html_container_1349947003";}s:32:"thesis_html_container_1349947003";a:2:{i:0;s:17:"thesis_site_title";i:1;s:32:"thesis_html_container_1351888811";}s:32:"thesis_html_container_1351888811";a:2:{i:0;s:29:"thesis_wp_nav_menu_1349943257";i:1;s:26:"thesis_text_box_1351889519";}s:32:"thesis_html_container_1351565527";a:1:{i:0;s:32:"thesis_html_container_1349943223";}s:32:"thesis_html_container_1349943223";a:2:{i:0;s:32:"thesis_html_container_1349947022";i:1;s:32:"thesis_html_container_1349947518";}s:32:"thesis_html_container_1349947022";a:1:{i:0;s:14:"thesis_wp_loop";}s:14:"thesis_wp_loop";a:1:{i:0;s:26:"thesis_post_box_1351579292";}s:26:"thesis_post_box_1351579292";a:9:{i:0;s:32:"thesis_html_container_1349947143";i:1;s:44:"thesis_post_box_1351579292_thesis_post_image";i:2;s:46:"thesis_post_box_1351579292_thesis_post_content";i:3;s:14:"kol_author_box";i:4;s:21:"thesis_comments_intro";i:5;s:26:"thesis_comments_1351577868";i:6;s:19:"thesis_comments_nav";i:7;s:30:"thesis_comment_form_1351581381";i:8;s:32:"thesis_html_container_1351621054";}s:32:"thesis_html_container_1349947143";a:2:{i:0;s:47:"thesis_post_box_1351579292_thesis_post_headline";i:1;s:32:"thesis_html_container_1349947168";}s:32:"thesis_html_container_1349947168";a:1:{i:0;s:45:"thesis_post_box_1351579292_thesis_post_author";}s:26:"thesis_comments_1351577868";a:3:{i:0;s:32:"thesis_html_container_1351581032";i:1;s:46:"thesis_comments_1351577868_thesis_comment_text";i:2;s:47:"thesis_comments_1351577868_thesis_comment_reply";}s:32:"thesis_html_container_1351581032";a:3:{i:0;s:48:"thesis_comments_1351577868_thesis_comment_avatar";i:1;s:48:"thesis_comments_1351577868_thesis_comment_author";i:2;s:46:"thesis_comments_1351577868_thesis_comment_date";}s:30:"thesis_comment_form_1351581381";a:7:{i:0;s:57:"thesis_comment_form_1351581381_thesis_comment_form_cancel";i:1;s:56:"thesis_comment_form_1351581381_thesis_comment_form_title";i:2;s:55:"thesis_comment_form_1351581381_thesis_comment_form_name";i:3;s:56:"thesis_comment_form_1351581381_thesis_comment_form_email";i:4;s:54:"thesis_comment_form_1351581381_thesis_comment_form_url";i:5;s:58:"thesis_comment_form_1351581381_thesis_comment_form_comment";i:6;s:57:"thesis_comment_form_1351581381_thesis_comment_form_submit";}s:32:"thesis_html_container_1351621054";a:2:{i:0;s:21:"thesis_next_post_link";i:1;s:25:"thesis_previous_post_link";}s:32:"thesis_html_container_1349947518";a:1:{i:0;s:28:"thesis_wp_widgets_1349947117";}s:32:"thesis_html_container_1351289629";a:1:{i:0;s:32:"thesis_html_container_1351289673";}s:32:"thesis_html_container_1351289673";a:2:{i:0;s:32:"thesis_html_container_1351290281";i:1;s:32:"thesis_html_container_1351306708";}s:32:"thesis_html_container_1351290281";a:3:{i:0;s:32:"thesis_html_container_1351290323";i:1;s:32:"thesis_html_container_1351290416";i:2;s:32:"thesis_html_container_1351290456";}s:32:"thesis_html_container_1351290323";a:1:{i:0;s:28:"thesis_wp_widgets_1351290403";}s:32:"thesis_html_container_1351290416";a:1:{i:0;s:28:"thesis_wp_widgets_1351290445";}s:32:"thesis_html_container_1351290456";a:1:{i:0;s:28:"thesis_wp_widgets_1351290476";}s:32:"thesis_html_container_1351306708";a:3:{i:0;s:15:"kol_attribution";i:1;s:26:"thesis_text_box_1351290497";i:2;s:18:"thesis_attribution";}s:32:"thesis_html_container_1351221753";a:1:{i:0;s:32:"thesis_html_container_1351222691";}s:32:"thesis_html_container_1351222691";a:1:{i:0;s:29:"thesis_wp_nav_menu_1351221775";}s:26:"thesis_post_box_1351305760";a:4:{i:0;s:47:"thesis_post_box_1351305760_thesis_post_headline";i:1;s:45:"thesis_post_box_1351305760_thesis_post_author";i:2;s:43:"thesis_post_box_1351305760_thesis_post_edit";i:3;s:46:"thesis_post_box_1351305760_thesis_post_content";}}}s:4:"page";a:1:{s:5:"boxes";a:56:{s:16:"thesis_html_body";a:3:{i:0;s:32:"thesis_html_container_1349943201";i:1;s:32:"thesis_html_container_1351565527";i:2;s:32:"thesis_html_container_1351289629";}s:32:"thesis_html_container_1349943201";a:1:{i:0;s:32:"thesis_html_container_1349947003";}s:32:"thesis_html_container_1349947003";a:2:{i:0;s:17:"thesis_site_title";i:1;s:32:"thesis_html_container_1351888811";}s:32:"thesis_html_container_1351888811";a:2:{i:0;s:29:"thesis_wp_nav_menu_1349943257";i:1;s:26:"thesis_text_box_1351889519";}s:32:"thesis_html_container_1351565527";a:1:{i:0;s:32:"thesis_html_container_1349943223";}s:32:"thesis_html_container_1349943223";a:2:{i:0;s:32:"thesis_html_container_1349947022";i:1;s:32:"thesis_html_container_1349947518";}s:32:"thesis_html_container_1349947022";a:1:{i:0;s:14:"thesis_wp_loop";}s:14:"thesis_wp_loop";a:1:{i:0;s:26:"thesis_post_box_1351579292";}s:26:"thesis_post_box_1351579292";a:3:{i:0;s:32:"thesis_html_container_1349947143";i:1;s:44:"thesis_post_box_1351579292_thesis_post_image";i:2;s:46:"thesis_post_box_1351579292_thesis_post_content";}s:32:"thesis_html_container_1349947143";a:1:{i:0;s:47:"thesis_post_box_1351579292_thesis_post_headline";}s:32:"thesis_html_container_1349947518";a:1:{i:0;s:28:"thesis_wp_widgets_1349947117";}s:32:"thesis_html_container_1351289629";a:1:{i:0;s:32:"thesis_html_container_1351289673";}s:32:"thesis_html_container_1351289673";a:2:{i:0;s:32:"thesis_html_container_1351290281";i:1;s:32:"thesis_html_container_1351306708";}s:32:"thesis_html_container_1351290281";a:3:{i:0;s:32:"thesis_html_container_1351290323";i:1;s:32:"thesis_html_container_1351290416";i:2;s:32:"thesis_html_container_1351290456";}s:32:"thesis_html_container_1351290323";a:1:{i:0;s:28:"thesis_wp_widgets_1351290403";}s:32:"thesis_html_container_1351290416";a:1:{i:0;s:28:"thesis_wp_widgets_1351290445";}s:32:"thesis_html_container_1351290456";a:1:{i:0;s:28:"thesis_wp_widgets_1351290476";}s:32:"thesis_html_container_1351306708";a:3:{i:0;s:15:"kol_attribution";i:1;s:26:"thesis_text_box_1351290497";i:2;s:18:"thesis_attribution";}s:32:"thesis_html_container_1351221753";a:1:{i:0;s:32:"thesis_html_container_1351222691";}s:32:"thesis_html_container_1351222691";a:1:{i:0;s:29:"thesis_wp_nav_menu_1351221775";}s:32:"thesis_html_container_1351581032";a:3:{i:0;s:48:"thesis_comments_1351577868_thesis_comment_avatar";i:1;s:48:"thesis_comments_1351577868_thesis_comment_author";i:2;s:46:"thesis_comments_1351577868_thesis_comment_date";}s:26:"thesis_post_box_1351305760";a:4:{i:0;s:47:"thesis_post_box_1351305760_thesis_post_headline";i:1;s:45:"thesis_post_box_1351305760_thesis_post_author";i:2;s:43:"thesis_post_box_1351305760_thesis_post_edit";i:3;s:46:"thesis_post_box_1351305760_thesis_post_content";}s:26:"thesis_comments_1351577868";a:2:{i:0;s:46:"thesis_comments_1351577868_thesis_comment_text";i:1;s:47:"thesis_comments_1351577868_thesis_comment_reply";}s:30:"thesis_comment_form_1351581381";a:7:{i:0;s:57:"thesis_comment_form_1351581381_thesis_comment_form_cancel";i:1;s:56:"thesis_comment_form_1351581381_thesis_comment_form_title";i:2;s:55:"thesis_comment_form_1351581381_thesis_comment_form_name";i:3;s:56:"thesis_comment_form_1351581381_thesis_comment_form_email";i:4;s:54:"thesis_comment_form_1351581381_thesis_comment_form_url";i:5;s:58:"thesis_comment_form_1351581381_thesis_comment_form_comment";i:6;s:57:"thesis_comment_form_1351581381_thesis_comment_form_submit";}s:44:"kol_landing_box_1354829704_kol_content_block";a:2:{i:0;s:62:"kol_landing_box_1354829704_kol_content_block_kol_headline_desc";i:1;s:60:"kol_landing_box_1354829704_kol_content_block_thesis_text_box";}s:41:"kol_landing_box_1354829704_kol_three_cols";a:3:{i:0;s:56:"kol_landing_box_1354829704_kol_three_cols_kol_column_one";i:1;s:56:"kol_landing_box_1354829704_kol_three_cols_kol_column_two";i:2;s:58:"kol_landing_box_1354829704_kol_three_cols_kol_column_three";}s:56:"kol_landing_box_1354829704_kol_three_cols_kol_column_one";a:3:{i:0;s:65:"kol_landing_box_1354829704_kol_three_cols_kol_column_one_kol_icon";i:1;s:78:"kol_landing_box_1354829704_kol_three_cols_kol_column_one_kol_col_headline_desc";i:2;s:67:"kol_landing_box_1354829704_kol_three_cols_kol_column_one_kol_button";}s:56:"kol_landing_box_1354829704_kol_three_cols_kol_column_two";a:3:{i:0;s:65:"kol_landing_box_1354829704_kol_three_cols_kol_column_two_kol_icon";i:1;s:78:"kol_landing_box_1354829704_kol_three_cols_kol_column_two_kol_col_headline_desc";i:2;s:67:"kol_landing_box_1354829704_kol_three_cols_kol_column_two_kol_button";}s:58:"kol_landing_box_1354829704_kol_three_cols_kol_column_three";a:3:{i:0;s:67:"kol_landing_box_1354829704_kol_three_cols_kol_column_three_kol_icon";i:1;s:80:"kol_landing_box_1354829704_kol_three_cols_kol_column_three_kol_col_headline_desc";i:2;s:69:"kol_landing_box_1354829704_kol_three_cols_kol_column_three_kol_button";}s:39:"kol_landing_box_1354829704_kol_two_cols";a:2:{i:0;s:54:"kol_landing_box_1354829704_kol_two_cols_kol_column_one";i:1;s:54:"kol_landing_box_1354829704_kol_two_cols_kol_column_two";}s:54:"kol_landing_box_1354829704_kol_two_cols_kol_column_one";a:3:{i:0;s:63:"kol_landing_box_1354829704_kol_two_cols_kol_column_one_kol_icon";i:1;s:76:"kol_landing_box_1354829704_kol_two_cols_kol_column_one_kol_col_headline_desc";i:2;s:65:"kol_landing_box_1354829704_kol_two_cols_kol_column_one_kol_button";}s:54:"kol_landing_box_1354829704_kol_two_cols_kol_column_two";a:3:{i:0;s:63:"kol_landing_box_1354829704_kol_two_cols_kol_column_two_kol_icon";i:1;s:76:"kol_landing_box_1354829704_kol_two_cols_kol_column_two_kol_col_headline_desc";i:2;s:65:"kol_landing_box_1354829704_kol_two_cols_kol_column_two_kol_button";}s:44:"kol_landing_box_1354832178_kol_content_block";a:2:{i:0;s:62:"kol_landing_box_1354832178_kol_content_block_kol_headline_desc";i:1;s:60:"kol_landing_box_1354832178_kol_content_block_thesis_text_box";}s:41:"kol_landing_box_1354832178_kol_three_cols";a:3:{i:0;s:56:"kol_landing_box_1354832178_kol_three_cols_kol_column_one";i:1;s:56:"kol_landing_box_1354832178_kol_three_cols_kol_column_two";i:2;s:58:"kol_landing_box_1354832178_kol_three_cols_kol_column_three";}s:56:"kol_landing_box_1354832178_kol_three_cols_kol_column_one";a:3:{i:0;s:65:"kol_landing_box_1354832178_kol_three_cols_kol_column_one_kol_icon";i:1;s:78:"kol_landing_box_1354832178_kol_three_cols_kol_column_one_kol_col_headline_desc";i:2;s:67:"kol_landing_box_1354832178_kol_three_cols_kol_column_one_kol_button";}s:56:"kol_landing_box_1354832178_kol_three_cols_kol_column_two";a:3:{i:0;s:65:"kol_landing_box_1354832178_kol_three_cols_kol_column_two_kol_icon";i:1;s:78:"kol_landing_box_1354832178_kol_three_cols_kol_column_two_kol_col_headline_desc";i:2;s:67:"kol_landing_box_1354832178_kol_three_cols_kol_column_two_kol_button";}s:58:"kol_landing_box_1354832178_kol_three_cols_kol_column_three";a:3:{i:0;s:67:"kol_landing_box_1354832178_kol_three_cols_kol_column_three_kol_icon";i:1;s:80:"kol_landing_box_1354832178_kol_three_cols_kol_column_three_kol_col_headline_desc";i:2;s:69:"kol_landing_box_1354832178_kol_three_cols_kol_column_three_kol_button";}s:39:"kol_landing_box_1354832178_kol_two_cols";a:2:{i:0;s:54:"kol_landing_box_1354832178_kol_two_cols_kol_column_one";i:1;s:54:"kol_landing_box_1354832178_kol_two_cols_kol_column_two";}s:54:"kol_landing_box_1354832178_kol_two_cols_kol_column_one";a:3:{i:0;s:63:"kol_landing_box_1354832178_kol_two_cols_kol_column_one_kol_icon";i:1;s:76:"kol_landing_box_1354832178_kol_two_cols_kol_column_one_kol_col_headline_desc";i:2;s:65:"kol_landing_box_1354832178_kol_two_cols_kol_column_one_kol_button";}s:54:"kol_landing_box_1354832178_kol_two_cols_kol_column_two";a:3:{i:0;s:63:"kol_landing_box_1354832178_kol_two_cols_kol_column_two_kol_icon";i:1;s:76:"kol_landing_box_1354832178_kol_two_cols_kol_column_two_kol_col_headline_desc";i:2;s:65:"kol_landing_box_1354832178_kol_two_cols_kol_column_two_kol_button";}s:54:"kol_product_lead_box_1354997509_kol_product_lead_email";a:2:{i:0;s:72:"kol_product_lead_box_1354997509_kol_product_lead_email_kol_headline_desc";i:1;s:68:"kol_product_lead_box_1354997509_kol_product_lead_email_kol_email_box";}s:68:"kol_product_lead_box_1354997509_kol_product_lead_email_kol_email_box";a:3:{i:0;s:77:"kol_product_lead_box_1354997509_kol_product_lead_email_kol_email_box_kol_icon";i:1;s:90:"kol_product_lead_box_1354997509_kol_product_lead_email_kol_email_box_kol_col_headline_desc";i:2;s:83:"kol_product_lead_box_1354997509_kol_product_lead_email_kol_email_box_kol_email_code";}s:54:"kol_product_lead_box_1354997509_kol_product_lead_image";a:2:{i:0;s:72:"kol_product_lead_box_1354997509_kol_product_lead_image_kol_headline_desc";i:1;s:68:"kol_product_lead_box_1354997509_kol_product_lead_image_kol_image_box";}s:54:"kol_product_lead_box_1354997509_kol_product_lead_video";a:2:{i:0;s:72:"kol_product_lead_box_1354997509_kol_product_lead_video_kol_headline_desc";i:1;s:69:"kol_product_lead_box_1354997509_kol_product_lead_video_kol_video_code";}s:45:"kol_funnel_lead_box_1354576006_kol_three_cols";a:3:{i:0;s:60:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_one";i:1;s:60:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_two";i:2;s:62:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_three";}s:60:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_one";a:2:{i:0;s:69:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_one_kol_icon";i:1;s:71:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_one_kol_button";}s:60:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_two";a:2:{i:0;s:69:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_two_kol_icon";i:1;s:71:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_two_kol_button";}s:62:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_three";a:2:{i:0;s:71:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_three_kol_icon";i:1;s:73:"kol_funnel_lead_box_1354576006_kol_three_cols_kol_column_three_kol_button";}s:42:"kol_orb_lead_box_1354681238_kol_three_cols";a:3:{i:0;s:57:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_one";i:1;s:57:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_two";i:2;s:59:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_three";}s:57:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_one";a:2:{i:0;s:66:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_one_kol_icon";i:1;s:68:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_one_kol_button";}s:57:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_two";a:2:{i:0;s:66:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_two_kol_icon";i:1;s:68:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_two_kol_button";}s:59:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_three";a:2:{i:0;s:68:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_three_kol_icon";i:1;s:70:"kol_orb_lead_box_1354681238_kol_three_cols_kol_column_three_kol_button";}s:57:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns";a:3:{i:0;s:85:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_one";i:1;s:85:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_two";i:2;s:87:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_three";}s:85:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_one";a:3:{i:0;s:96:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_one_kol_button";i:1;s:115:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_one_kol_pricing_lead_feature_list";i:2;s:103:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_one_kol_pricing_badge";}s:85:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_two";a:3:{i:0;s:96:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_two_kol_button";i:1;s:115:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_two_kol_pricing_lead_feature_list";i:2;s:103:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_two_kol_pricing_badge";}s:87:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_three";a:3:{i:0;s:98:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_three_kol_button";i:1;s:117:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_three_kol_pricing_lead_feature_list";i:2;s:105:"kol_pricing_lead_box_1354753636_kol_pricing_three_columns_kol_pricing_lead_column_three_kol_pricing_badge";}}}s:7:"archive";a:1:{s:5:"boxes";a:26:{s:16:"thesis_html_body";a:3:{i:0;s:32:"thesis_html_container_1349943201";i:1;s:32:"thesis_html_container_1351565527";i:2;s:32:"thesis_html_container_1351289629";}s:32:"thesis_html_container_1349943201";a:1:{i:0;s:32:"thesis_html_container_1349947003";}s:32:"thesis_html_container_1349947003";a:2:{i:0;s:17:"thesis_site_title";i:1;s:32:"thesis_html_container_1351888811";}s:32:"thesis_html_container_1351888811";a:2:{i:0;s:29:"thesis_wp_nav_menu_1349943257";i:1;s:26:"thesis_text_box_1351889519";}s:32:"thesis_html_container_1351565527";a:1:{i:0;s:32:"thesis_html_container_1349943223";}s:32:"thesis_html_container_1349943223";a:2:{i:0;s:32:"thesis_html_container_1349947022";i:1;s:32:"thesis_html_container_1349947518";}s:32:"thesis_html_container_1349947022";a:2:{i:0;s:32:"thesis_html_container_1355254232";i:1;s:14:"thesis_wp_loop";}s:32:"thesis_html_container_1355254232";a:2:{i:0;s:20:"thesis_archive_title";i:1;s:22:"thesis_archive_content";}s:14:"thesis_wp_loop";a:1:{i:0;s:26:"thesis_post_box_1351305760";}s:26:"thesis_post_box_1351305760";a:4:{i:0;s:47:"thesis_post_box_1351305760_thesis_post_headline";i:1;s:45:"thesis_post_box_1351305760_thesis_post_author";i:2;s:43:"thesis_post_box_1351305760_thesis_post_edit";i:3;s:46:"thesis_post_box_1351305760_thesis_post_content";}s:32:"thesis_html_container_1349947518";a:1:{i:0;s:28:"thesis_wp_widgets_1349947117";}s:32:"thesis_html_container_1351289629";a:1:{i:0;s:32:"thesis_html_container_1351289673";}s:32:"thesis_html_container_1351289673";a:2:{i:0;s:32:"thesis_html_container_1351290281";i:1;s:32:"thesis_html_container_1351306708";}s:32:"thesis_html_container_1351290281";a:3:{i:0;s:32:"thesis_html_container_1351290323";i:1;s:32:"thesis_html_container_1351290416";i:2;s:32:"thesis_html_container_1351290456";}s:32:"thesis_html_container_1351290323";a:1:{i:0;s:28:"thesis_wp_widgets_1351290403";}s:32:"thesis_html_container_1351290416";a:1:{i:0;s:28:"thesis_wp_widgets_1351290445";}s:32:"thesis_html_container_1351290456";a:1:{i:0;s:28:"thesis_wp_widgets_1351290476";}s:32:"thesis_html_container_1351306708";a:3:{i:0;s:15:"kol_attribution";i:1;s:26:"thesis_text_box_1351290497";i:2;s:18:"thesis_attribution";}s:32:"thesis_html_container_1349947143";a:2:{i:0;s:47:"thesis_post_box_1351579292_thesis_post_headline";i:1;s:32:"thesis_html_container_1349947168";}s:32:"thesis_html_container_1349947168";a:2:{i:0;s:45:"thesis_post_box_1351579292_thesis_post_author";i:1;s:51:"thesis_post_box_1351579292_thesis_post_num_comments";}s:32:"thesis_html_container_1351221753";a:1:{i:0;s:32:"thesis_html_container_1351222691";}s:32:"thesis_html_container_1351222691";a:1:{i:0;s:29:"thesis_wp_nav_menu_1351221775";}s:32:"thesis_html_container_1351581032";a:3:{i:0;s:48:"thesis_comments_1351577868_thesis_comment_avatar";i:1;s:48:"thesis_comments_1351577868_thesis_comment_author";i:2;s:46:"thesis_comments_1351577868_thesis_comment_date";}s:26:"thesis_post_box_1351579292";a:1:{i:0;s:46:"thesis_post_box_1351579292_thesis_post_content";}s:26:"thesis_comments_1351577868";a:2:{i:0;s:46:"thesis_comments_1351577868_thesis_comment_text";i:1;s:47:"thesis_comments_1351577868_thesis_comment_reply";}s:30:"thesis_comment_form_1351581381";a:7:{i:0;s:57:"thesis_comment_form_1351581381_thesis_comment_form_cancel";i:1;s:56:"thesis_comment_form_1351581381_thesis_comment_form_title";i:2;s:55:"thesis_comment_form_1351581381_thesis_comment_form_name";i:3;s:56:"thesis_comment_form_1351581381_thesis_comment_form_email";i:4;s:54:"thesis_comment_form_1351581381_thesis_comment_form_url";i:5;s:58:"thesis_comment_form_1351581381_thesis_comment_form_comment";i:6;s:57:"thesis_comment_form_1351581381_thesis_comment_form_submit";}}}}s:8:"packages";a:13:{s:20:"thesis_package_basic";a:6:{s:31:"thesis_package_basic_1349943298";a:7:{s:5:"_name";s:4:"Body";s:4:"_ref";s:4:"body";s:4:"_css";s:245:"* { outline: none; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+img, video { height: auto !important; max-width: 100% !important; }
+$clear
+$fonts
+$helpers
+$shared
+.content-box .page { padding: 0; }";s:11:"font-family";s:9:"helvetica";s:11:"font-weight";s:6:"normal";s:5:"color";s:2:"$d";s:16:"background-image";s:56:"/wp-content/thesis/skins/marketers-delight/images/bg.png";}s:31:"thesis_package_basic_1349943590";a:7:{s:5:"_name";s:6:"Header";s:4:"_ref";s:6:"header";s:9:"_selector";s:12:".header-area";s:4:"_css";s:152:".header-area { -moz-box-shadow: 0 2px 3px rgba(0, 0, 0, .1); -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, .1); box-shadow: 0 2px 3px rgba(0, 0, 0, .1); }";s:16:"background-color";s:2:"$w";s:11:"padding-top";s:5:"$half";s:14:"padding-bottom";s:5:"$half";}s:31:"thesis_package_basic_1349943976";a:5:{s:5:"_name";s:4:"Logo";s:4:"_ref";s:4:"logo";s:9:"_selector";s:5:".logo";s:4:"_css";s:200:".logo { display: inline-block; float: left; font-weight: 500; letter-spacing: -2px; text-shadow: 2px 2px 0 #fff, 2px 3px 0 $g; }
+.logo a { border-bottom: 0; }
+.logo a:hover { color: $primary_dark; }";s:9:"font-size";s:2:"45";}s:31:"thesis_package_basic_1351290602";a:10:{s:5:"_name";s:6:"Footer";s:4:"_ref";s:6:"footer";s:9:"_selector";s:7:".footer";s:4:"_css";s:1183:".footer a { border-bottom: 1px solid $primary_light; color: $primary_light; }
+.footer a:hover { border: 0; }
+.footer ul { list-style: square; margin: 0 0 22px 22px; }
+.footer-columns { margin-bottom: $double; }
+.footer-col { float: left; line-height: 22px; margin-left: 5%; width: 30%; }
+.footer-col h3, .footer-col h4, .footer-col h5 { font-size: 19px; line-height: 27px; margin-bottom: 13px; }
+.footer-col p { margin-bottom: 22px; }
+.footer-col input { border: 0; width: 100%; }
+.footer-copyright { background: #333; border: 1px solid #444; padding: $single; line-height: 28px; }
+/* footer widgets */
+.footer .quote-source { color: $g; }
+.footer .box-style { border: 0; color: $d; list-style: none; margin-left: 0; box-shadow: none; }
+.footer .box-style a { border-bottom: 0; color: $p; }
+.footer .box-style a:hover { color: $primary_dark; }
+/* attribution */
+.footer .kol-attribution { border: 0; color: $lg; float: right; font-size: 12px; margin-top: 15px; text-transform: uppercase; }
+.footer .kol-attribution:hover { color: #999; }
+.footer .kol-attribution span { color: #ae2525; font-size: 25px; letter-spacing: -1px; margin-left: 3px; text-transform: none; }";s:9:"font-size";s:2:"15";s:5:"color";s:2:"$w";s:16:"background-color";s:6:"2e2e2e";s:10:"margin-top";s:7:"$double";s:11:"padding-top";s:7:"$double";s:14:"padding-bottom";s:7:"$double";}s:31:"thesis_package_basic_1351308236";a:6:{s:5:"_name";s:7:"Buttons";s:4:"_ref";s:7:"buttons";s:9:"_selector";s:7:".button";s:4:"_css";s:1540:".button, a.button, a.button:hover, input[type=\"submit\"], .previous_posts a, .next_posts a, #cancel-comment-reply-link { border: 1px solid rgba(0, 0, 0, .4) !important; color: $w !important; display: inline-block; font-size: 1em; font-weight: 500; padding: $fourth $half; text-shadow: 1px 1px 1px rgba(0, 0, 0, .6); $round_corners; -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .1), inset 0 1px 1px rgba(255, 255, 255, .4); -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .1), inset 0 1px 1px rgba(255, 255, 255, .4); box-shadow: 0 1px 2px rgba(0, 0, 0, .1), inset 0 1px 1px rgba(255, 255, 255, .4); }
+.button.red, input[type=\"submit\"], #cancel-comment-reply-link { background-color: #ae2525; }
+.button.red:hover, input[type=\"submit\"]:hover, #cancel-comment-reply-link:hover { background-color: #921717; }
+.button.green, input.input_submit { background-color: #30a146; }
+.button.green:hover, input.input_submit:hover { background-color: #03821b; }
+.button.orange { background-color: #f99015; }
+.button.orange:hover { background-color: #e37b01; }
+.button.blue { background-color: #16a4c8; }
+.button.blue:hover { background-color: #127ea7; }
+.button.gray, .previous_posts a, .next_posts a { background-color: #dadada; border-color: rgba(0, 0, 0, .2); color: #777 !important; text-shadow: 1px 1px 1px rgba(255, 255, 255, .6); }
+.button.gray:hover, a.button.gray:hover, .previous_posts a:hover, .next_posts a:hover { background-color: #ccc; }
+.button.dark { background-color: #2e2e2e; }
+.button.dark:hover { background-color: #010101; }";s:5:"color";s:3:"fff";s:12:"border-width";s:3:"1px";}s:31:"thesis_package_basic_1351654028";a:9:{s:5:"_name";s:6:"Author";s:4:"_ref";s:6:"author";s:9:"_selector";s:11:".author-box";s:4:"_css";s:454:".author-avatar, .author-text { float: left; }
+.author-avatar { float: left; margin-right: 1%; width: 22%; }
+.author-text { width: 77%; }
+.author-box .avatar { $circle; }
+p.author-name { margin-bottom: $fourth; }
+.author-name a { border: 0; font-size: 18px; font-weight: 500; }
+.author-name a:hover { color: $dg; }
+.author-box .icon { margin-right: $fourth; }
+.entry p.twitter-icon { margin-bottom: $half; }
+.twitter-icon span { color: #4fa0da; }";s:12:"border-width";s:5:"1px 0";s:12:"border-color";s:2:"$g";s:10:"margin-top";s:7:"$single";s:11:"padding-top";s:7:"$single";s:14:"padding-bottom";s:7:"$single";}}s:20:"thesis_package_links";a:1:{s:31:"thesis_package_links_1349943402";a:5:{s:5:"_name";s:5:"Links";s:4:"_ref";s:5:"links";s:4:"_css";s:30:"a img { vertical-align: top; }";s:4:"link";s:2:"$p";s:15:"link-decoration";s:4:"none";}}s:26:"thesis_package_post_format";a:1:{s:37:"thesis_package_post_format_1349944101";a:9:{s:5:"_name";s:12:"Entry format";s:4:"_ref";s:5:"entry";s:9:"_selector";s:6:".entry";s:4:"_css";s:1257:".entry { padding: $double; }
+.entry + .entry { padding-bottom: 0; }
+.entry.top + .entry { margin-top: -$double; } /* ghetto? you decide. */
+.entry .frame { background: $lg; padding: $half; }
+.entry h4 { font-size: 24px; line-height: 34px; margin: $mid 0 $half 0; }
+.entry a { border-bottom: 1px solid $p; }
+.entry a:hover { border-bottom: 0; }
+.entry blockquote { border: 1px solid $g; border-width: 0 0 0 1px; color: $dg; font-style: italic; padding-left: $single; }
+.entry blockquote.right, .entry blockquote.left { line-height: 21px; width: 230px; }
+.entry blockquote.left { border-width: 0 1px 0 0; padding-left: 0; padding-right: $single; }
+.wp-caption { background: $lg; color: $dg; font-style: italic; padding: $half; text-align: center; }
+.headline-area { color: $d; margin-bottom: $single; }
+.headline a { border-bottom: 0; }
+.headline a:hover { color: $primary_dark; }
+.byline { color: $dg; margin-top: $fourth; }
+.byline a { border-color: $d; color: $d; }
+/* archive */
+.archive-box.entry { padding-bottom: 0; }
+.archive_title { margin-bottom: $half; }
+/* post nav */
+.entry + .post-nav .next_posts { float: right; }
+.entry + .post-nav .next_post { margin-bottom: $single; }
+.entry + .post-nav { margin: 0 $double $double; }";s:14:"text-font-size";s:2:"15";s:18:"headline-font-size";s:2:"32";s:17:"subhead-font-size";s:2:"24";s:11:"list-indent";a:1:{s:2:"on";b:1;}s:10:"typography";s:3:"580";}}s:21:"thesis_package_wp_nav";a:2:{s:32:"thesis_package_wp_nav_1349944659";a:10:{s:5:"_name";s:11:"Header menu";s:4:"_ref";s:10:"headermenu";s:9:"_selector";s:12:".header-menu";s:4:"_css";s:852:"#res-menu { float: right; margin-top: $half; position: relative; }
+.res { display: none; }
+ul.header-menu:after { display: none; }
+.header-menu .button { margin-left: $half; }
+.header-menu .button a { color: #fff; padding: 0; }
+.header-menu ul.sub-menu { background: $w; border: 1px solid $g; $small_shadow; }
+.header-menu .sub-menu li:last-child a { border-bottom: 0; }
+.header-menu .sub-menu a { border-bottom: 1px solid $g; padding: $half; }
+.header-menu .sub-menu:before { border-bottom: 8px solid $w; border-left: 8px solid transparent; border-right: 8px solid transparent; left: 15px; top: -8px; z-index: 3; }
+.header-menu .sub-menu:after { border-bottom: 10px solid rgba(0, 0, 0, .09); border-left: 10px solid transparent; border-right: 10px solid transparent; left: 13px; top: -11px; z-index: 2; }
+.header-menu a { border-bottom: 0; }";s:4:"link";s:3:"$dg";s:10:"link-hover";s:2:"$p";s:11:"padding-top";s:7:"$fourth";s:13:"padding-right";s:5:"$half";s:14:"padding-bottom";s:5:"$half";s:12:"padding-left";s:5:"$half";}s:32:"thesis_package_wp_nav_1351226592";a:8:{s:5:"_name";s:9:"Main Menu";s:4:"_ref";s:8:"mainmenu";s:9:"_selector";s:10:".main-menu";s:4:"_css";s:1333:".menu-main { background: #efefef; border: 1px solid #ccc; border-width: 1px 0; position: relative; z-index: 49; -webkit-box-shadow: inset 0 1px 1px #fdfdfd; -moz-box-shadow: inset 0 1px 1px #fdfdfd; box-shadow: inset 0 1px 1px #f8f8f8; }
+.menu-main li { list-style: none; }
+.menu-main li a { padding: $half $single; }
+.main-menu > li:first-child > a { border-left: 0; padding-left: 0; }
+.main-menu > li:last-child > a { border-right: 0; }
+.main-menu > li > a { border-left: 1px solid rgba(255, 255, 255, .5); border-right: 1px solid rgba(0, 0, 0, .15); }
+.menu-main .button { margin: -1px; padding: inherit; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0; }
+.menu-main .button a { border: 0; color: #fff; }
+.menu-main .sub-menu { background: #e0e0e0; border: 1px solid #ccc; $small_shadow; }
+.menu-main .sub-menu li:last-child a { border-bottom: 0; }
+.menu-main .sub-menu a { border-bottom: 1px solid #ccc; font-size: 14px; padding: 12px; }
+.main-menu .sub-menu:before { border-bottom: 8px solid #e0e0e0; border-left: 8px solid transparent; border-right: 8px solid transparent; left: 15px; top: -8px; z-index: 3; }
+.main-menu .sub-menu:after { border-bottom: 10px solid rgba(0, 0, 0, .09); border-left: 10px solid transparent; border-right: 10px solid transparent; left: 13px; top: -11px; z-index: 2; }";s:9:"font-size";s:2:"15";s:11:"font-weight";s:3:"500";s:4:"link";s:6:"2e2e2e";s:10:"link-hover";s:3:"888";}}s:22:"thesis_package_columns";a:1:{s:33:"thesis_package_columns_1349947969";a:6:{s:5:"_name";s:9:"2 columns";s:4:"_ref";s:8:"2columns";s:9:"_selector";s:18:".content-box .page";s:4:"_css";s:127:".content-box { padding-top: $mid; }
+.content { background-color: $w; border: 1px solid $g; }
+.sidebar a:hover { color: $dg; }";s:10:"1-selector";s:8:".content";s:10:"2-selector";s:8:".sidebar";}}s:25:"thesis_package_wp_widgets";a:1:{s:36:"thesis_package_wp_widgets_1349950070";a:11:{s:5:"_name";s:15:"Sidebar widgets";s:4:"_ref";s:14:"sidebarwidgets";s:9:"_selector";s:16:".sidebar .widget";s:4:"_css";s:158:".sidebar .widget:last-child { margin-bottom: 0; }
+.sidebar input[type="text"], .sidebar input[type="email"], .sidebar input[type="password"] { width: 100%; }";s:14:"text-font-size";s:2:"15";s:18:"text-margin-bottom";s:7:"$double";s:17:"subhead-font-size";s:2:"21";s:21:"subhead-margin-bottom";s:5:"$half";s:15:"list-style-type";s:6:"square";s:11:"list-indent";a:1:{s:2:"on";s:1:"1";}s:10:"typography";s:3:"312";}}s:20:"thesis_package_input";a:1:{s:31:"thesis_package_input_1350006733";a:4:{s:5:"_name";s:5:"Forms";s:4:"_ref";s:5:"forms";s:4:"_css";s:1234:"input, textarea { background-color: $w; border: 1px solid $g; font-family: inherit; font-size: 15px; padding: $half; $small_bot_shadow; -webkit-appearance: none; }
+input[type=\"text\"], input[type=\"email\"], input[type=\"password\"], textarea { -moz-transition: all .15s ease-in-out; -ms-transition: all .15s ease-in-out; -o-transition: all .15s ease-in-out; -webkit-transition: all .15s ease-in-out; }
+input.name, input#author, input.email, input#email, input#url { background: $w url(/wp-content/thesis/skins/marketers-delight/images/sprite.png) no-repeat; padding-left: 41px; }
+input.name, input#name { background-position: 2px 0; }
+input.email, input#email { background-position: 2px -43px; }
+input#url { background-position: 2px -86px; }
+input:focus, textarea:focus { border-color: $primary_light; -moz-box-shadow: 0 0 5px $primary_light; -webkit-box-shadow: 0 0 5px $primary_light; box-shadow: 0 0 5px $primary_light; }
+form input[type=\"submit\"] { border: 1px solid rgba(0, 0, 0, .4); color: $w; cursor: pointer; padding: $half; }
+:-moz-placeholder { color: $dg; }
+::-webkit-input-placeholder { color: $dg; }
+:focus::-webkit-input-placeholder { color: transparent; }
+:focus:-moz-placeholder { color: transparent; }";s:16:"background-color";s:2:"$w";}}s:29:"kol_email_signup_lead_package";a:1:{s:40:"kol_email_signup_lead_package_1350599675";a:21:{s:5:"_name";s:17:"Email Signup Lead";s:4:"_ref";s:9:"emaillead";s:21:"main-background-color";s:6:"434343";s:21:"main-background-image";s:16:"images/noise.png";s:19:"main-headline-color";s:6:"FFFFFF";s:23:"main-headline-font-size";s:2:"24";s:18:"main-margin-bottom";s:2:"48";s:16:"main-padding-top";s:2:"24";s:19:"main-padding-bottom";s:2:"24";s:20:"pop-background-color";s:6:"AE2525";s:20:"pop-background-image";s:16:"images/noise.png";s:18:"pop-headline-color";s:6:"FFFFFF";s:22:"pop-headline-font-size";s:2:"21";s:12:"border-width";s:13:"6px 6px 0 6px";s:12:"border-color";s:6:"FFFFFF";s:14:"pop-margin-top";s:3:"-18";s:15:"pop-margin-left";s:2:"48";s:15:"pop-padding-top";s:2:"24";s:17:"pop-padding-right";s:2:"48";s:18:"pop-padding-bottom";s:2:"24";s:16:"pop-padding-left";s:2:"48";}}s:26:"thesis_package_wp_comments";a:1:{s:37:"thesis_package_wp_comments_1351578373";a:11:{s:5:"_name";s:8:"Comments";s:4:"_ref";s:8:"comments";s:4:"_css";s:1147:"ul.comments { list-style: none; margin-left: 0; }
+.comments > .comment { border-bottom: 1px solid $g; margin-bottom: $single; }
+.comment-head { margin-bottom: $single; }
+.comment_date a { border: 0; color: $dg; display: block; font-size: 13px; }
+.comment_date a:hover, a.comment-reply-link:hover { color: $p; }
+.comment .avatar { float: left; margin-right: $fourth; $circle; }
+a.comment-reply-link { display: block; margin-top: $single; }
+a.comment-reply-link { border: 0; color: $dg; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; }
+#commentform { margin: $double 0; }
+#comment_form_title { font-size: 21px; }
+.comments_intro { font-size: 21px; line-height: 31px; margin: $single 0; padding-bottom: $half; text-align: center; }
+.comments_intro a { font-size: 15px; }
+#commentform p { margin-bottom: $single; }
+#commentform label { color: $dg; display: block; margin-bottom: $half; }
+#commentform .required { color: #ae2525; }
+#commentform input[type=\"text\"] { width: 50%; }
+#commentform textarea { width: 100%; }
+#cancel-comment-reply-link { float: right; }
+#comment_nav { list-style: none; margin-left: 0; }";s:14:"text-font-size";s:2:"15";s:17:"subhead-font-size";s:2:"15";s:19:"subhead-font-weight";s:3:"500";s:15:"list-style-type";s:6:"square";s:11:"list-indent";a:1:{s:2:"on";b:1;}s:10:"typography";s:3:"580";s:23:"comments-padding-bottom";s:5:"$half";s:17:"nested-margin-top";s:7:"$single";}}s:17:"kol_orbs_lead_pkg";a:1:{s:28:"kol_orbs_lead_pkg_1352072111";a:40:{s:5:"_name";s:14:"Orbs Page Lead";s:4:"_ref";s:8:"orbslead";s:14:"headline-color";s:3:"FFF";s:18:"headline-font-size";s:2:"36";s:20:"headline-line-height";s:2:"51";s:13:"sub-font-size";s:2:"18";s:9:"sub-color";s:3:"DDD";s:22:"orb-1-background-color";s:6:"AE2525";s:18:"orb-1-border-width";s:2:"10";s:18:"orb-1-border-color";s:17:"rgba(0, 0, 0, .2)";s:17:"orb-1-padding-top";s:2:"48";s:19:"orb-1-padding-right";s:2:"48";s:18:"orb-1-padding-left";s:2:"48";s:20:"orb-1-headline-color";s:3:"FFF";s:24:"orb-1-headline-font-size";s:2:"21";s:26:"orb-1-headline-line-height";s:2:"29";s:20:"orb-1-icon-font-size";s:2:"48";s:16:"orb-1-icon-color";s:3:"FFF";s:22:"orb-2-background-color";s:6:"AE2525";s:18:"orb-2-border-width";s:2:"10";s:18:"orb-2-border-color";s:17:"rgba(0, 0, 0, .2)";s:17:"orb-2-padding-top";s:2:"48";s:19:"orb-2-padding-right";s:2:"48";s:18:"orb-2-padding-left";s:2:"48";s:20:"orb-2-headline-color";s:3:"FFF";s:24:"orb-2-headline-font-size";s:2:"21";s:26:"orb-2-headline-line-height";s:2:"29";s:20:"orb-2-icon-font-size";s:2:"48";s:16:"orb-2-icon-color";s:3:"FFF";s:22:"orb-3-background-color";s:6:"AE2525";s:18:"orb-3-border-width";s:2:"10";s:18:"orb-3-border-color";s:17:"rgba(0, 0, 0, .2)";s:17:"orb-3-padding-top";s:2:"48";s:19:"orb-3-padding-right";s:2:"48";s:18:"orb-3-padding-left";s:2:"48";s:20:"orb-3-headline-color";s:3:"FFF";s:24:"orb-3-headline-font-size";s:2:"21";s:26:"orb-3-headline-line-height";s:2:"29";s:20:"orb-3-icon-font-size";s:2:"48";s:16:"orb-3-icon-color";s:3:"FFF";}}s:22:"kol_feature_funnel_pkg";a:1:{s:33:"kol_feature_funnel_pkg_1354577254";a:49:{s:5:"_name";s:6:"Vinnie";s:4:"_ref";s:6:"vinnie";s:14:"headline-color";s:6:"2E2E2E";s:18:"headline-font-size";s:2:"48";s:20:"headline-line-height";s:2:"65";s:13:"sub-font-size";s:2:"18";s:9:"sub-color";s:3:"888";s:25:"funnel-1-background-color";s:3:"FFF";s:21:"funnel-1-border-width";s:1:"5";s:21:"funnel-1-border-color";s:3:"FFF";s:20:"funnel-1-padding-top";s:2:"24";s:22:"funnel-1-padding-right";s:2:"24";s:23:"funnel-1-padding-bottom";s:2:"24";s:21:"funnel-1-padding-left";s:2:"24";s:23:"funnel-1-headline-color";s:6:"2E2E2E";s:27:"funnel-1-headline-font-size";s:2:"30";s:29:"funnel-1-headline-line-height";s:2:"41";s:30:"funnel-1-icon-background-color";s:6:"0C8BD4";s:19:"funnel-1-icon-color";s:3:"FFF";s:21:"funnel-1-button-color";s:3:"FFF";s:32:"funnel-1-button-background-color";s:6:"2E2E2E";s:25:"funnel-2-background-color";s:3:"FFF";s:21:"funnel-2-border-width";s:1:"5";s:21:"funnel-2-border-color";s:3:"FFF";s:20:"funnel-2-padding-top";s:2:"24";s:22:"funnel-2-padding-right";s:2:"24";s:23:"funnel-2-padding-bottom";s:2:"24";s:21:"funnel-2-padding-left";s:2:"24";s:23:"funnel-2-headline-color";s:6:"2E2E2E";s:27:"funnel-2-headline-font-size";s:2:"30";s:29:"funnel-2-headline-line-height";s:2:"41";s:30:"funnel-2-icon-background-color";s:6:"0C8BD4";s:19:"funnel-2-icon-color";s:3:"FFF";s:21:"funnel-2-button-color";s:3:"FFF";s:32:"funnel-2-button-background-color";s:6:"2E2E2E";s:25:"funnel-3-background-color";s:3:"FFF";s:21:"funnel-3-border-width";s:1:"5";s:21:"funnel-3-border-color";s:3:"FFF";s:20:"funnel-3-padding-top";s:2:"24";s:22:"funnel-3-padding-right";s:2:"24";s:23:"funnel-3-padding-bottom";s:2:"24";s:21:"funnel-3-padding-left";s:2:"24";s:23:"funnel-3-headline-color";s:6:"2E2E2E";s:27:"funnel-3-headline-font-size";s:2:"30";s:29:"funnel-3-headline-line-height";s:2:"41";s:30:"funnel-3-icon-background-color";s:6:"0C8BD4";s:19:"funnel-3-icon-color";s:3:"FFF";s:21:"funnel-3-button-color";s:3:"FFF";s:32:"funnel-3-button-background-color";s:6:"2E2E2E";}}s:7:"package";a:2:{s:18:"package_1354813371";a:2:{s:5:"_name";s:6:"ihouyv";s:4:"_ref";s:11:"buoipjoihou";}s:18:"package_1354813432";a:2:{s:5:"_name";s:4:"test";s:4:"_ref";s:4:"test";}}s:4:"test";a:1:{s:15:"test_1354813501";a:18:{s:5:"_name";s:4:"test";s:4:"_ref";s:7:"testfew";s:23:"main-headline-font-size";s:2:"40";s:25:"main-headline-line-height";s:2:"56";s:22:"col-headline-font-size";s:2:"27";s:24:"col-headline-line-height";s:2:"37";s:28:"col-1-title-background-color";s:6:"666666";s:17:"col-1-title-color";s:6:"FFFFFF";s:28:"col-1-badge-background-color";s:6:"1E1E1E";s:17:"col-1-badge-color";s:6:"FFFFFF";s:28:"col-2-title-background-color";s:6:"32A4E6";s:17:"col-2-title-color";s:6:"FFFFFF";s:28:"col-2-badge-background-color";s:6:"1E1E1E";s:17:"col-2-badge-color";s:6:"FFFFFF";s:28:"col-3-title-background-color";s:6:"666666";s:17:"col-3-title-color";s:6:"FFFFFF";s:28:"col-3-badge-background-color";s:6:"1E1E1E";s:17:"col-3-badge-color";s:6:"FFFFFF";}}}s:4:"vars";a:24:{s:14:"var_1349943338";a:3:{s:4:"name";s:4:"Dark";s:3:"ref";s:1:"d";s:3:"css";s:7:"#1e1e1e";}s:14:"var_1349943384";a:3:{s:4:"name";s:7:"Primary";s:3:"ref";s:1:"p";s:3:"css";s:7:"#ae2525";}s:14:"var_1349943427";a:3:{s:4:"name";s:9:"Dark gray";s:3:"ref";s:2:"dg";s:3:"css";s:4:"#777";}s:14:"var_1349943624";a:3:{s:4:"name";s:5:"White";s:3:"ref";s:1:"w";s:3:"css";s:4:"#fff";}s:14:"var_1349944746";a:3:{s:4:"name";s:13:"Single spacer";s:3:"ref";s:6:"single";s:3:"css";s:4:"24px";}s:14:"var_1349944759";a:3:{s:4:"name";s:13:"Double spacer";s:3:"ref";s:6:"double";s:3:"css";s:4:"48px";}s:14:"var_1349944776";a:3:{s:4:"name";s:10:"1/4 spacer";s:3:"ref";s:6:"fourth";s:3:"css";s:3:"8px";}s:14:"var_1349944892";a:3:{s:4:"name";s:10:"1/2 spacer";s:3:"ref";s:4:"half";s:3:"css";s:4:"12px";}s:14:"var_1349945173";a:3:{s:4:"name";s:4:"Gray";s:3:"ref";s:1:"g";s:3:"css";s:4:"#ddd";}s:14:"var_1349945268";a:3:{s:4:"name";s:17:"Small drop shadow";s:3:"ref";s:12:"small_shadow";s:3:"css";s:128:"-moz-box-shadow: 0 0 3px rgba(0, 0, 0, .2); -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .2); box-shadow: 0 0 3px rgba(0, 0, 0, .2)";}s:14:"var_1349946707";a:3:{s:4:"name";s:10:"Light gray";s:3:"ref";s:2:"lg";s:3:"css";s:4:"#eee";}s:14:"var_1349950362";a:3:{s:4:"name";s:18:"Dark primary color";s:3:"ref";s:12:"primary_dark";s:3:"css";s:7:"#830b0b";}s:14:"var_1350006805";a:3:{s:4:"name";s:13:"Round corners";s:3:"ref";s:13:"round_corners";s:3:"css";s:71:"-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px";}s:14:"var_1350006931";a:3:{s:4:"name";s:24:"Small bottom drop shadow";s:3:"ref";s:16:"small_bot_shadow";s:3:"css";s:134:"-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .1); -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .1); box-shadow: 0 1px 2px rgba(0, 0, 0, .1)";}s:14:"var_1350007167";a:3:{s:4:"name";s:19:"Light primary color";s:3:"ref";s:13:"primary_light";s:3:"css";s:7:"#ff7878";}s:14:"var_1350103632";a:3:{s:4:"name";s:12:"Custom Fonts";s:3:"ref";s:5:"fonts";s:3:"css";s:1381:".icon { font-family: \'WebSymbolsRegular\'; display: inline-block; line-height: 1; }
+.logo, .footer .kol-attribution span { font-family: \"Marketing Script\", cursive; }
+/* marketing script */
+@font-face { font-family: \"Marketing Script\"; src:url(\"/wp-content/thesis/skins/marketers-delight/fonts/marketing/MarketingScript.eot?\") format(\"eot\"), url(\"fonts/marketing/MarketingScript.woff\") format(\"woff\"), url(\"/wp-content/thesis/skins/marketers-delight/fonts/marketing/MarketingScript.ttf\") format(\"truetype\"), url(\"/wp-content/thesis/skins/marketers-delight/fonts/marketing/MarketingScript.svg#MarketingScript\") format(\"svg\"); font-weight: normal; font-style: normal; }
+/* web symbols */
+@font-face{ font-family: \'WebSymbolsRegular\'; src: url(\'/wp-content/thesis/skins/marketers-delight/fonts/websymbols/websymbols-regular-webfont.eot\'); src: url(\'/wp-content/thesis/skins/marketers-delight/fonts/websymbols/websymbols-regular-webfont.eot?#iefix\') format(\'embedded-opentype\'), url(\'/wp-content/thesis/skins/marketers-delight/fonts/websymbols/websymbols-regular-webfont.woff\') format(\'woff\'), url(\'/wp-content/thesis/skins/marketers-delight/fonts/websymbols/websymbols-regular-webfont.ttf\') format(\'truetype\'), url(\'/wp-content/thesis/skins/marketers-delight/fonts/websymbols/websymbols-regular-webfont.svg#WebSymbolsRegular\') format(\'svg\'); }";}s:14:"var_1351580219";a:3:{s:4:"name";s:20:"Circle border radius";s:3:"ref";s:6:"circle";s:3:"css";s:71:"-moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius: 50%";}s:14:"var_1352063356";a:3:{s:4:"name";s:10:"Mid spacer";s:3:"ref";s:3:"mid";s:3:"css";s:4:"36px";}s:14:"var_1352064986";a:3:{s:4:"name";s:17:"6px Round Corners";s:3:"ref";s:15:"round_corners_6";s:3:"css";s:71:"-moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px";}s:14:"var_1352065170";a:3:{s:4:"name";s:17:"Large Drop Shadow";s:3:"ref";s:12:"large_shadow";s:3:"css";s:128:"-moz-box-shadow: 0 0 6px rgba(0, 0, 0, .1); -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, .1); box-shadow: 0 0 6px rgba(0, 0, 0, .1)";}s:14:"var_1352070298";a:3:{s:4:"name";s:13:"Content width";s:3:"ref";s:13:"content_width";s:3:"css";s:5:"672px";}s:14:"var_1354323643";a:3:{s:4:"name";s:5:"Clear";s:3:"ref";s:5:"clear";s:3:"css";s:112:".clear:after, .page:after, .page-lead:after, .comment-head:after { clear: both; content: \"\"; display: table; }";}s:14:"var_1354324651";a:3:{s:4:"name";s:6:"Shared";s:3:"ref";s:6:"shared";s:3:"css";s:213:".header-menu .sub-menu:before, .header-menu .sub-menu:after, .menu-main .sub-menu:before, .main-menu .sub-menu:after, .quote-box:before, .quote-box:after { content: \'\'; height: 0; position: absolute; width: 0; }";}s:14:"var_1354324771";a:3:{s:4:"name";s:7:"Helpers";s:3:"ref";s:7:"helpers";s:3:"css";s:237:".circle { $circle; }
+.block { display: block !important; }
+.overflow { overflow: hidden; }
+.first { margin-left: 0 !important; }
+ul:last-child, ol:last-child, li:last-child, p:last-child, input:last-child { margin-bottom: 0 !important; }";}}s:3:"css";s:15452:"/**
+ * Marketers Delight
+ * by Alex Mangini, kolakube.com
+ * Get help: kolakube.com/forum/
+ */
+
+/**
+ * Table of contents:
+ * — packages
+ * — shortcodes + widgets
+ * - page leads
+ * — basic landing page template
+ * — advanced landing page template
+ * — responsive styles
+*/
+
+
+/*---:[ packages ]:---*/
+
+&body
+&links
+&forms
+&buttons
+&header
+&logo
+&headermenu
+&mainmenu
+&2columns
+&entry
+&author
+&comments
+&sidebarwidgets
+&footer
+
+/*---:[ shortcodes + widgets ]:---*/
+
+/* styles widget boxes */
+.box-style { background-color: $w; border: 1px solid $g; padding: $single; $round_corners; $small_bot_shadow; }
+
+/* post optin form (is shared) */
+.post-optin { padding: $single; text-align: center; }
+.post-optin input { margin: 0 $half $half 0; }
+
+/* content block (shortcode only, is shared) */
+.content-block { border: 1px solid $g; border-width: 1px 0; margin-bottom: $single; padding-bottom: $single; }
+
+/* alert + note (is shared) */
+.alert { background-color: $d; color: $w; }
+
+/* popular articles (widget-only) */
+.sidebar .popular-articles ul { list-style: none; margin-left: 0; }
+.popular-articles li { border-bottom: 1px solid $g; margin-bottom: $half; padding-bottom: $half; }
+.popular-articles li:last-child { border-bottom: 0; margin-bottom: 0; padding-bottom: 0; }
+.popular-articles .icon { color: $g; font-size: 11px; margin-right: $fourth; }
+.popular-articles .comment-text { color: $d; }
+
+/* affiliate box (widget-only) */
+.affiliate-box { text-align: center; }
+.affiliate-box img { margin-bottom: $half; }
+
+/* quotes box (shortcode + widget) */
+.quote-box { margin-bottom: $half; position: relative; }
+.quote-box:before, .quote-box:after { border-style: solid; }
+.quote-box:before { border-color: $w transparent transparent $w; border-width: 12px; bottom: -24px; right: 40px; z-index: 20; }
+.quote-box:after { border-color: rgba(0, 0, 0, .08) transparent transparent rgba(0, 0, 0, .08); border-width: 14px; bottom: -29px; right: 38px; z-index: 10; }
+.quote-box img.right, .quote-box img.featured { float: right; margin: 0 0 $single $single; }
+.quote-box img.left { margin: 0 $single $single 0; }
+.quote-box .quote-image { margin-bottom: $half; $circle; }
+.quote-source { color: $dg; font-style: italic; margin-right: 90px; text-align: right; }
+
+/* shared */
+.post-optin h3, .post-optin h4, .alert h3, .alert h4, .note h3, .note h4, .content-block h3, .content-block h4 { margin-top: 0; }
+.note, .post-optin { background-color: $lg; border: 1px solid $g; border-width: 1px 0; }
+.alert, .note, .post-optin, .content-block { margin: 0 -$double $single; padding: $single $double; }
+
+
+/*---:[ page leads ]:---*/
+
+.page-lead + .page-lead { margin-top: $double; }
+.page-lead .page { padding-top: $double; }
+.page-lead .text-area + .three-columns, .page-lead .three-columns + .text-area, .video-lead .video-embed { margin-top: $mid; }
+.funnel-lead .page, .pricing-lead .page { padding-left: 0; padding-right: 0; }
+.page-lead ul, .page-lead ol { list-style: square; }
+
+.text-area h1 + p, .text-area h2 + p, .text-area h3 + p { font-size: 18px; line-height: 29px; }
+.text-area h1, .text-area h2, .text-area h3, .text-area h4 { margin-bottom: $fourth; }
+
+
+/*---:[ basic landing page template ]:---*/
+
+.basic .page { margin: 0 auto; width: $content_width; }
+.basic .header-area, .basic .footer, .basic .headline { text-align: center; }
+.basic .logo, .basic .content { float: none; margin: 0 auto; }
+.basic .footer { padding: $single 0; }
+
+
+/*---:[ advanced landing page template ]:---*/
+
+.basic .headline-area, .advanced .headline-area { text-align: center; }
+
+/* layout + spacing */
+.advanced .header-area { margin-bottom: $mid; }
+.advanced .header-area + .landing-full { margin-top: -$mid; }
+.landing-box .page { padding: 0; }
+.advanced .page, .advanced .content { width: 888px; }
+.advanced .content-box { margin-bottom: $mid; padding-top: 0; }
+.advanced .content-box .content .entry { padding: 60px 144px; }
+.advanced .header-area, .advanced .footer, .advanced .text-area { text-align: center; }
+.advanced .logo, .advanced .content { float: none; }
+.advanced .footer { margin-top: $half; padding: $single 0; }
+
+/* text area */
+.landing-box .text-area { margin-bottom: $mid; }
+.landing-box .text-area h1, .landing-box .text-area h2, .landing-box .text-area h3 { font-size: 36px; line-height: 51px; }
+.landing-box .text-area h3 { margin-top: 0; }
+
+/* full width */
+.landing-full { background-color: $p; margin-bottom: $mid; }
+.landing-full .page { padding: $double 0; }
+.landing-full .text-area { color: $w; }
+.landing-full .entry .text-area, .landing-full .col .text-area { color: inherit; }
+.landing-full .text-area:last-child { margin-bottom: 0; }
+
+/* content box */
+.landing-box .content { $large_shadow; }
+.landing-box .content.entry { margin-bottom: $single; padding: 60px 144px; }
+.landing-box .entry { padding: 0 $half; }
+.landing-box .content.round-top { border-width: 1px 1px 0; margin-bottom: 0; -moz-border-radius: 6px 6px 0 0; -webkit-border-radius: 6px 6px 0 0; border-radius: 6px 6px 0 0; }
+.landing-box .content.round-bottom { border-width: 0 1px 1px; -moz-border-radius: 0 0 6px 6px; -webkit-border-radius: 0 0 6px 6px; border-radius: 0 0 6px 6px; }
+.landing-box .content.round-full { $round_corners_6; }
+.landing-box .content-text { margin-bottom: $single; }
+
+/* columns */
+.landing-box .col { float: left; margin-left: 3%; padding: 0 $single; text-align: center; }
+.landing-box .col .text-area p { font-size: 15px; line-height: 22px; }
+.landing-box .col .text-area p, .landing-box .col .text-area { margin-bottom: 22px; }
+.landing-box .col .text-area h4 { font-size: 21px; line-height: 29px; }
+.landing-box .col p { margin-bottom: $single; }
+.landing-box .col .icon { font-size: $mid; margin-bottom: $single; }
+.landing-box .box-cols .col { background-color: $w; border: 1px solid $g; $round_corners_6; $large_shadow; }
+.landing-box .two-columns.box-text, .landing-box .three-columns.box-text { margin-bottom: $double; }
+.landing-box .two-columns.box-cols, .landing-box .three-columns.box-cols { margin-bottom: $single; }
+.landing-box .box-cols + .box-text { margin-top: $double; }
+.landing-box .two-columns .col { width: 48.5%; }
+.landing-box .two-columns.box-cols .col { padding: $mid; }
+.landing-box .three-columns .col { padding: 0 $half; width: 31.333333333333%; }
+.landing-box .three-columns.box-cols .col { padding: $mid $single; }
+
+
+/*--:[ responsive break: 1 ]:--*/
+
+@media screen and (max-width: 1080px) {
+img, video { height: auto !important; max-width: 100% !important; }
+.page, .landing-box .content { width: 100% !important; }
+.page-lead .page { padding-left: $double; padding-right: $double; }
+section.content { border-left: 0; width: 62.222222222222%; /* 672 */ }
+aside.sidebar { width: 37.777777777778%; /* 408 */ }
+
+/* videos */
+.video-box { height: 0; padding-bottom: 56.25%; padding-top: 25px; position: relative; }
+.video-box iframe { height: 100%; left: 0; position: absolute; top: 0; width: 100%; }
+
+/* product lead */
+.video-lead .email-code { width: 100%; }
+
+/* funnel lead */
+.funnel-lead .col { margin-left: 3%; width: 31.33333333333333%; }
+
+/* orb lead */
+.orb-lead .col { margin: 0 0 $single 5%; }
+
+/* pricing lead */
+.pricing-lead .pricing-badge { right: 15px; top: 15px; }
+.pricing-lead .col { overflow: hidden; width: 33.33333333333333%; }
+
+/* advanced landing page template */
+.landing-box .page { padding-left: $half; padding-right: $half; }
+.landing-full .page { padding-bottom: $mid; padding-top: $mid; }
+.advanced .content-box .page, .advanced .content-box .content { width: 100%; }
+.advanced .content-box .content { padding-top: $single; }
+.landing-box .content { padding: $double; }
+.landing-box .box-text .col { padding-left: $half; padding-right: $half; }
+.landing-box .text-area { padding-left: $half; padding-right: $half; }
+.landing-box .col .text-area { padding-left: 0; padding-right: 0; }
+.content-text .alert, .content-text .note, .content-text .post-optin, .content-text .content-block { margin: 0 -$single $single; padding: $single !important; }
+}
+
+
+/*--:[ responsive break: 2 ]:--*/
+
+@media screen and (max-width: 850px) {
+/* header */
+.header-area .logo { display: block; float: none; text-align: center; }
+div#res-menu { float: none; margin-bottom: $half; text-align: center; }
+ul.header-menu li { display: inline-block; float: none; }
+
+/* product lead */
+.product-lead .text-area, .product-lead .email-form { text-align: center; width: 100%; }
+.product-lead .text-area ul, .product-lead .text-area ol { text-align: left; }
+.email-lead .email-form + .text-area, .email-lead .text-area + .email-form { margin-top: $mid; }
+.email-lead .text-area + .email-form, .email-lead .email-form + .text-area, .image-lead .text-area + .image-area, .image-lead .image-area + .text-area { margin-left: 0; }
+.image-lead .image-area { text-align: center; width: 100%; }
+
+/* funnel lead */
+.funnel-lead .col { margin: 0 0 $double 10%; width: 45% }
+.funnel-lead .col:last-child { margin: 0 0 0 27.5%; }
+
+/* orb lead */
+.orb-lead { overflow: hidden; }
+.orb-lead .col { height: 250px; float: none; font-size: 14px; line-height: 21px; margin: 0 auto $single; padding-top: 40px; width: 250px; }
+.orb-lead .col.first { margin-left: auto !important; }
+.orb-lead .col:last-child { margin-bottom: 0; }
+
+/* pricing lead */
+.pricing-lead .col { margin: 0 0 $double 10%; width: 45%; }
+.pricing-lead .col:last-child { margin: 0 0 0 27.5%; }
+
+/* main menu */
+.menu-main .page { padding: 0; }
+.menu-main li { text-align: center; width: 20%; }
+.main-menu > li:first-child > a { padding-left: $single; }
+
+/* content box */
+section.content, aside.sidebar, .footer-col { float: none; width: 100%; }
+section.content { border-right: 0; }
+.entry blockquote.right, .entry blockquote.left { float: none; margin: 0 0 $single; width: auto; }
+.sidebar .widget input[type=\"text\"], .sidebar .widget input[type=\"email\"], .sidebar .widget input[type=\"password\"] { width: 50%; }
+
+/* footer */
+.footer-col { border-bottom: 1px solid #444; margin: 0 0 24px 0; padding-bottom: 24px; }
+.footer-col:last-child { border-bottom: 0; margin-bottom: 0; padding-bottom: 0; }
+.footer-copyright { text-align: center; }
+.footer .kol-attribution { float: none; }
+.footer .kol-attribution span { display: block; }
+
+/* advanced landing page template */
+.landing-box .box-cols .col { padding: $single !important; }
+}
+
+
+/*--:[ responsive break: 3 ]:--*/
+
+@media screen and (max-width: 600px) {
+/* general */
+div.page { padding-left: $single; padding-right: $single; }
+
+/* logo */
+.logo { line-height: 54px; }
+
+/* page leads */
+.page-lead .page { padding-left: $single; padding-right: $single; padding-top: $mid; }
+.page-lead + .page-lead { margin-top: $mid; }
+.page-lead .text-area h1 + p, .page-lead .text-area h2 + p, .page-lead .text-area h3 + p { font-size: 16px; line-height: 24px; }
+
+/* product lead */
+.video-lead input { margin-bottom: $half; width: 100% !important; }
+
+/* funnel lead */
+.funnel-lead .col { margin: 0 0 $single; padding: $single $half; width: 100%; }
+.funnel-lead .col:last-child { margin-left: 0; }
+.funnel-lead .col .icon { font-size: 20px; height: 60px; padding-top: 20px; width: 60px; margin-top: 0; }
+.funnel-lead .col .button { display: block; }
+
+/* pricing lead */
+.pricing-lead .col { float: none; margin: 0 0 $single; width: 100% }
+.pricing-lead .col:last-child { margin-left: 0; }
+
+/* reset header menu */
+.header-menu { text-align: left; }
+ul.header-menu ul.sub-menu { background: none; border-color: rgba(255, 255, 255, .2); border-width: 0 0 0 1px; margin-left: $single; padding: 0; position: static; visibility: visible; $remove_shadow; }
+ul.header-menu li ul.sub-menu a { border: 0; padding-left: $single; padding-top: 0; }
+ul.header-menu .sub-menu, ul.header-menu ul li { width: auto; }
+ul.header-menu li.menu-item a { border-top: 1px solid rgba(255, 255, 255, .2); color: $w; padding: 18px $single; }
+.header-menu > li:first-child { margin-top: $single; }
+ul.header-menu li a:hover { color: rgba(255, 255, 255, .5); }
+
+/* restyle header menu */
+.res { color: $w; position: absolute; right: $single; top: $single; z-index: 9999; }
+a.res-off, #res-menu:target .res-on, #res-menu:target ul.header-menu li { display: block; }
+.header-menu .sub-menu:before, .header-menu .sub-menu:after, ul.header-menu li, #res-menu:target .res-off { display: none; }
+#res-menu { background-color: $d; padding: $single 0; $round_corners; }
+.header-menu:before { content: \"Navigate\"; color: $w; display: block; font-weight: bold; margin-left: $single; }
+#res-menu:target { padding-bottom: 0 !important; }
+ul.header-menu li.button { background: none !important; border: 0 !important; margin-left: inherit; padding: inherit; text-shadow: none; $remove_shadow; }
+
+/* main menu */
+.menu-main { border-bottom: 0; }
+.menu-main .sub-menu { margin: 3px 0 0 3px; width: 90%; }
+.main-menu ul li { text-align: left; width: 100%; }
+.menu-main li { width: 50%; }
+.menu-main li.button { margin: 0; }
+.menu-main li > a { border-bottom: 1px solid rgba(0, 0, 0, .15); }
+
+/* advanced landing page template (is shared) */
+.advanced .header-area + .landing-full { margin-top: -$single; }
+.advanced .content.entry { margin-bottom: $half; padding-top: $mid !important; }
+.advanced .entry { padding-top: 0 !important; }
+.advanced .header-area, .landing-box .text-area { margin-bottom: $single; }
+.landing-box .text-area p { font-size: 15px; line-height: 22px; }
+.landing-box .col { margin: 0 0 $half; }
+.landing-box .col:last-child { margin-bottom: 0; }
+.landing-box .box-text .col { margin-bottom: $mid; }
+.landing-box .two-columns.box-text, .landing-box .three-columns.box-text { margin-bottom: 0!important; }
+.landing-box .two-columns.box-cols, .landing-box .three-columns.box-cols { margin-bottom: $half !important; }
+.landing-box .content-text { margin-bottom: 0; padding-top: $half !important; }
+
+/* content */
+.entry { padding: $mid $single !important; }
+h1:not(#site_title), h2 { font-size: 24px !important; line-height: 33px !important; }
+h3, h4 { font-size: 21px !important; line-height: 27px !important; }
+.entry img.alignright, .entry img.alignleft, .entry img.aligncenter { clear: both; display: block; float: none; margin-left: auto; margin-right: auto; }
+.entry form { width: 100% !important; }
+.entry .alert, .entry .note, .entry .post-optin, .entry .content-block { margin: 0 -$single $single; padding: $single !important; }
+.entry .wp-caption { width: auto !important; }
+.entry .button { display: block; text-align: center; }
+.quote-box img { height: 60px; margin: 0 0 $half $half !important; width: 60px; }
+
+/* post nav */
+.entry + .post-nav { margin: 0 $single $single; }
+.entry + .post-nav .next_posts a, .post-nav .previous_posts a { display: block; text-align: center; }
+.entry + .post-nav .next_posts { display: block; float: none; margin-bottom: $half; }
+
+/* post optin (is shared) */
+.post-optin form { margin: 0 auto; width: 80%; }
+
+/* author box */
+.author-box { text-align: center; }
+div.author-avatar, div.author-text { float: none; width: 100%; }
+div.author-text p { display: inline-block; }
+.author-twitter { margin-right: $half; }
+
+/* comments (is shared) */
+a#cancel-comment-reply-link { float: none; margin-bottom: $single; }
+
+/* sidebar (is shared) */
+aside.sidebar { padding: $double $single 0 $single; }
+
+/* shared */
+.landing-box .col, .post-optin input, form#commentform input.input_text, .sidebar .widget input[type=\"text\"], .sidebar .widget input[type=\"email\"] { width: 100% !important; }
+}";s:10:"css_custom";s:728:"/*---:[ layout ]:---*/
+/**
+ * this is where you can adjust the width of your site, content box + sidebar.
+ * until thesis 2 advances, you\'ll need to know a little basic math!
+ ***notes***
+ * The value of .page (the site width) should be the sum of .content + .sidebar (default ex: 672 + 408 = 1080)
+ * The value of .content should be your (desired width) + 96 (default ex: 576 + 96 = 672) 
+ * The value of .sidebar should be your (desired width) + 96 (default ex: 312 + 96 = 408)
+ * The value (96) is spacing around the content (48 + 48)
+*/
+
+.page { margin: 0 auto; padding: 0 $double; width: 1080px; }
+.content { float: left; width: $content_width; }
+.sidebar { float: left; padding: $double $double 0 $double; width: 408px; }";s:5:"class";s:17:"marketers_delight";}s:8:"checksum";s:32:"ee6e51f7d1ca272a5a08f9e5032faa55";}

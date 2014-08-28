@@ -1,0 +1,92 @@
+v.1.6.1 (19.04.2013)
+
+- fixed upload files image path
+
+v.1.6 (04.04.2013)
+- added jQuery 1.9.x Support 
+- added iOS Fixes for Shadows, and added some extraction for the new swipe engine.
+
+v.1.5.2 (08.02.2013)
+- addes stopAtLast option to stop slider at the last slide. (Only jQUery Version so far).
+
+v.1.5 (10.01.2013)
+- Added a new swipe Plugin for iOS5< supporting
+
+version 1.4.2
+
+-bug fix: fixed some cache folder detection.
+
+version 1.4.1
+
+- feature: add output protections settings.
+- feature: add version to slider output in the comments.
+- bug fix: fix some network warnings 
+
+version 1.4
+
+adoptation: adopt the plugin for working with wordpress 3.5 
+
+version 1.3.5
+
+feature: added position settings.
+
+version 1.3.4
+
+feature: added shortcode on captions support 
+
+version 1.3.3 
+
+- bug fix: fixed php shortcode output.
+
+version 1.3.2 
+
+-bug fix: added box-sizing options for sertain errors fix with some themes.
+
+version 1.3.1  (19.08.2012)
+
+	- Chrome Major Bug with Thumbnails and Canvas Animation fixed. Shadow is removed from Thumbnails in Chrome
+	- New Timer function has been addes (timerShow on/off via Options, and Settings.css)
+	- Pause Icon is shown in the Top right corner (via settings.css can be turned on / off)
+	
+	
+
+version 1.3b1
+
+-bug fix: improved multisite identification
+
+version 1.3
+- feature: added support for wordpress multisite
+
+version 1.2
+- feature: added full screen video option
+- feature: added custom html overlay
+- bug fix: remove the margin if no thumbs
+
+version 1.1.5	(Released 06.06.12)
+
+- bug fix - added overflow-x: visible;overflow-y: visible; to settings.css, for preventing css problems.
+
+version 1.1.4  Released
+
+-bug fix: removed "image" class from image layers
+-bug fix: added "position:absolute" on all creative layer items.
+-bug fix: Changes fn.css() extension in cssAnimate to resolve conflicts.
+
+version 1.1.3  (Released 22.05.2012)
+
+- bug fix: on widget area, when you save a slider, only the first one was appeared.
+- Chrome Bug Fixed, workaround hsa been removed (JS)
+
+version 1.1.2
+
+- change: added li margin:0 global setting to the .kb_slider (avoid some css bugs)
+- some cssOriginal changes to avoid collisions with other scripts.
+
+version 1.1.1 released: 19/05/2012
+
+- bug fix: css a:visited wrapped with .kb_slider a:visited
+- feature: added google code on / off option
+- bug fix: removed </img> from output
+- change: changed loading order of settings.css and captions.css
+
+

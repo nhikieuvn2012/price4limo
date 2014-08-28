@@ -1,0 +1,71 @@
+Example Stallion Clickbank Affiliate Links
+
+Replace CLICKBANKUSERNAME with your Clickbank Username
+Replace domain.com with your domainname.
+
+Text Link
+---------
+
+<a href="http://CLICKBANKUSERNAME.stallionad.hop.clickbank.net/?tid=STALLION&dpdid=Stallion_seo">Stallion SEO Ad Theme</a>
+
+
+200px by 200px jpg
+------------------
+
+<div class="alcenter">
+<a href="http://CLICKBANKUSERNAME.stallionad.hop.clickbank.net/?tid=STALLION&dpdid=Stallion_seo" target="_blank"><img src="http://www.domain.com/wp-content/themes/stallion-seo-theme/stallion-cbaf/stallion-200-200.jpg" alt="Stallion SEO Ad Theme" width="200" /></a>
+</div>
+
+The affiliate link above is built into the Stallion theme
+as a widget called "Stallion Affiliate Banner". Add your
+Clickbank username to the main Stallion options page and
+the built in banner ad will automatically add your Clickbank
+username (you will recieve a share of Stallion sales from your site).
+
+
+200px by 200px animated gif
+---------------------------
+
+<div class="alcenter">
+<a href="http://CLICKBANKUSERNAME.stallionad.hop.clickbank.net/?tid=STALLION&dpdid=Stallion_seo" target="_blank"><img src="http://www.domain.com/wp-content/themes/stallion-seo-theme/stallion-cbaf/stallion-200-200.gif" alt="Stallion SEO Ad Theme" width="200" /></a>
+</div>
+
+
+234px by 60px animated gif
+--------------------------
+
+<div class="alcenter">
+<a href="http://CLICKBANKUSERNAME.stallionad.hop.clickbank.net/?tid=STALLION&dpdid=Stallion_seo" target="_blank"><img src="http://www.domain.com/wp-content/themes/stallion-seo-theme/stallion-cbaf/stallion-234-60.gif" alt="Stallion SEO Ad Theme" width="234" /></a>
+</div>
+
+
+300px by 250px animated gif
+---------------------------
+
+<div class="alcenter">
+<a href="http://CLICKBANKUSERNAME.stallionad.hop.clickbank.net/?tid=STALLION&dpdid=Stallion_seo" target="_blank"><img src="http://www.domain.com/wp-content/themes/stallion-seo-theme/stallion-cbaf/stallion-300-250.gif" alt="Stallion SEO Ad Theme" width="300" /></a>
+</div>
+
+
+
+Note if used with a site running the Stallion theme the above
+code will result in a banner ad that centers replacing 
+<div class="alcenter"> with one of the following gives
+different alignment:
+
+
+Align Center
+
+<div class="alcenter">
+
+
+Float the banner ad to the right of the content, text will wrap
+around the ad (like you see with the  main AdSense ad unit).
+
+<div class="fadright">
+
+
+Float the banner ad to the left of the content, text will wrap
+around the ad (like you see with the  main AdSense ad unit).
+
+<div class="fadleft">

@@ -1,0 +1,436 @@
+/*----------------------------------------------------------------------------- 
+
+	-	kenburn slider -
+
+Screen Stylesheet 
+
+version:   	1.0 
+date:      	09/18/11 
+author:		themepunch
+email:     	info@themepunch.com 
+website:   	http://www.themepunch.com
+-----------------------------------------------------------------------------*/
+
+/***********************************************
+	-	THE BACKGROUND OF THE SLIDER	-
+************************************************/
+
+.kb_slider{
+	position:relative;
+	
+}
+
+.kb_slider *{
+	-moz-box-sizing: content-box; 
+	-webkit-box-sizing: content-box; 
+	box-sizing: content-box;
+}
+
+.kb_slider ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;		
+}
+
+.kb_slider ul li{
+	margin:0px;
+	padding:0px;
+	overflow-x: visible;
+	overflow-y: visible;
+}
+
+.kb_slider ul>li { display:none; }
+
+
+
+.kb-pause	{	position:absolute; 
+				top:20px; 
+				right:20px; 
+				z-index:9000; 
+				background:url(../assets/button/pause.png) no-repeat; 
+				width:21px; 
+				height:21px;
+			}
+			
+.kb-timer	{
+				position:absolute;
+				width:0;
+				height:0px;
+				border-top:2px solid rgba(255,255,255,0.2);
+				border-bottom:2px solid rgba(0,0,0,0.2);
+				top:0px; left:0px;
+				z-index:10000;
+			}
+			
+			
+.light .kenburn-bg{
+	background:url(../assets/bg/white50.png) repeat;	
+	padding:9px;
+	border:1px solid rgba(70,70,70,0.3);
+	border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px;
+}
+
+.dark .kenburn-bg{
+	background:url(../assets/bg/black50.png) repeat;	
+	padding:9px;
+	border:1px solid rgba(70,70,70,0.3);
+	border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+}
+
+
+.kb_slider_wrapper	{	width:0px; margin:auto;}
+
+
+/*************************************************
+	-	THE PRELOADER OF THE BANNER 	-
+*************************************************/
+.kenburn-preloader{
+	background:url(../assets/loader/preloader.gif) no-repeat 50% 50%;
+	width:32px;
+	height:32px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	z-index:9999;
+	background-color: #000;
+	border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+	padding: 10px;
+	margin-left: -14px;
+}
+
+
+
+/**************************************************
+	-	THE BASIC SETTINGS FOR THUMBNAILS	-
+***************************************************/
+
+/*****	-	LIGHT	-	*******/
+.light .kenburn_thumb_container,
+.dark .kenburn_thumb_container{		
+	/*background:url(../assets/shadows/thumbshadow_repeater.png) repeat-X;*/
+	/*background-color:#100c09;*/
+	background:none;
+}
+
+.light .kenburn_thumb_container_bg{
+	background:url(../assets/shadows/thumbshadow_repeater.png) repeat-X;
+	background-color: #ffffff;	
+	
+}
+
+.light .kenburn_thumb_container #thumbmask{
+	background:url(../assets/shadows/thumbshadow_repeater.png) repeat-X;
+	background-color:#fff;
+}
+
+
+
+/*****	-	DARK	-	*******/
+.kenburn_thumb_container{		
+	
+	background:url(../assets/bg/black50.png) repeat;	
+	border-radius: 0px 0px 5px 5px; 
+	-moz-border-radius: 0px 0px 5px 5px; 
+	-webkit-border-radius: 0px 0px 5px 5px; 
+	border-left:1px solid rgba(70,70,70,0.3);
+	border-right:1px solid rgba(70,70,70,0.3);
+	border-bottom:1px solid rgba(70,70,70,0.3);
+}
+
+.dark .kenburn_thumb_container_bg{
+	
+	background:url(../assets/bg/black50.png) repeat;	
+	
+}
+
+.dark .kenburn_thumb_container #thumbmask{
+	
+	background:url(../assets/bg/black50.png) repeat;	
+}
+
+
+/*****	-	ALL	-	*******/
+.kenburn_thumb_container .video{
+	width:30px;
+	height:30px;
+	background:url(../assets/player/play_small.png) no-repeat;
+	margin-top:-15px;
+	margin-left:-15px;
+	cursor:pointer;
+	
+}
+
+
+
+
+/***********************************************
+	-	THE SHADOWS UNDER THE SLIDER	-
+************************************************/
+.kenburn-leftshadow{
+	background:url(../assets/shadows/thumbshadow_left.png) no-repeat;	
+	width:50px;
+	height:35px;
+	position:absolute;	
+
+}
+
+.kenburn-rightshadow{
+	background:url(../assets/shadows/thumbshadow_right.png) no-repeat;
+	width:50px;
+	height:35px;
+	position:absolute;
+	right:0px;
+}
+
+.kenburn-repeatshadow{
+	background:url(../assets/shadows/thumbshadow_repeat.png);
+	width:100%;
+	height:35px;
+	position:absolute;	
+	
+}
+
+
+/***********************************************
+	-	THE VIDEO SETTINGS	-
+************************************************/
+.kenburn-video-overlay{
+	background-color:#000;
+	opacity:0.25;
+	filter: alpha(opacity=25);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
+	width:100%;
+	height:100%;
+	position:relative;
+	z-index:1000;
+}
+
+.kenburn-video-button{
+	background:url(../assets/player/play.png) no-repeat;
+	width:100px;
+	height:100px;
+	position:absolute;
+	z-index:1500;
+	opacity:0.85;
+	filter: alpha(opacity=85);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	cursor:pointer;
+
+	
+}
+
+.kenburn-video-button:hover {
+	opacity:1.0;
+}
+
+.video_container{
+		position:absolute;
+		top: 0; bottom: 0px;
+		width: 100%;
+		background: #eee;
+		font-family: Arial, sans-serif;
+		font-size:12px;
+		line-height: 20px;
+		color: #777;
+		text-shadow: #fff 1px 1px 1px;
+	}
+
+.video_container_wrap{
+	padding-right:20px;
+}
+
+.video_container .video_clip{
+	float: left;
+	padding-right: 20px;	
+}
+.video_container h2{
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	color: #999;
+	text-shadow: #fff 1px 1px 1px;
+	padding-top: 45px;
+	margin: 0;
+}
+.buttonlight {
+ float: right;
+ height: 30px;
+ line-height: 30px;
+ font-size: 12px;
+ -webkit-border-radius: 5px;
+ -moz-border-radius: 5px;
+ border-radius: 5px;
+}
+
+.buttonlight:link, .buttonlight:visited {
+ color: #777;
+ padding: 0 20px 0 20px;
+ text-align: center;
+ text-shadow: 1px 1px 0px #fff;
+ background: #999 url('../assets/button/btn_light.png') repeat-x center top;
+ border: 1px solid #cdcdcd;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+.buttonlight:hover, .comment-reply-link:hover {
+ color: #fff;
+ text-shadow: 1px 1px 0px #000;
+ background: #333;
+ border: 1px solid #555555;
+ text-decoration: none;
+}
+
+.video_container .close{
+	width:30px;
+	height:30px;
+	position:absolute;
+	background:url(../assets/button/close.png) no-repeat top;	
+	right:10px;
+	top:10px;
+	cursor:pointer;
+}
+
+.video_container .close:hover{
+	background-position:bottom;
+	opacity:0.5;
+	filter: alpha(opacity=50);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	cursor:pointer;
+}
+
+
+/*************************************/
+/*		THUMBNAIL OPTIONS			*/
+/*************************************/
+.thumbbuttons{
+	background:url(../assets/button/navigdots_bgtile.png);
+	height:35px;	
+	 -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	position:absolute;
+	bottom:-33px;
+	z-index:1000;	
+}
+
+.thumbbuttons .grainme{
+	background:url(../assets/bg/grain.png);
+	height:35px;
+	width:100%;
+}
+
+
+.thumbbuttons .leftarrow{
+	background:url(../assets/button/arrowleft.png) no-Repeat bottom left;
+	width:9px;
+	height:16px;
+	margin-left:9px;	
+	margin-right:9px;
+	margin-top:9px;
+	float:left;
+	cursor:pointer;
+}
+
+
+.thumbbuttons .rightarrow{
+	background:url(../assets/button/arrowright.png) no-Repeat bottom left;
+	width:9px;
+	height:16px;
+	margin-top:9px;	
+	margin-right:9px;
+	margin-left:18px;
+	float:left;
+	cursor:pointer;
+}
+
+
+.thumbbuttons .minithumb{
+	background:url(../assets/button/navigdots.png) no-Repeat bottom left;
+	width:15px;
+	height:15px;
+	margin-top:9px;	
+	margin-left:9px;	
+	float:left;
+	cursor:pointer;
+}
+
+.thumbbuttons .thumbs{
+	float:left;
+}
+
+.thumbbuttons .rightarrow:hover, .thumbbuttons .leftarrow:hover, .thumbbuttons .minithumb:hover, .thumbbuttons .thumbs .selected{
+	background-position:top left;
+}
+
+
+/************************************
+	-	KEN BURNS SLIDER HELPERS	-
+************************************/
+
+.kb_slider_wrapper a:link,.kb_slider_wrapper  a:visited {
+	text-decoration: none;
+	color: #fff !important;
+}
+
+.kb_slider_wrapper a:hover {
+	text-decoration: none;
+	cursor: pointer;
+	color: #ddd !important;
+}
+
+.kb_slider_wrapper .caption_white a:link,.kb_slider_wrapper .caption_white a:visited {
+	text-decoration: none;
+	color: #000;
+}
+
+.kb_slider_wrapper .caption_white a:hover {
+	text-decoration: none;
+	cursor: pointer;
+	color: #555;
+}
+
+.kb_slider_wrapper a:focus { 
+    outline: none; 
+}
+
+.kb_slider_wrapper .minicap{
+	font-size:14px;
+	font-weight: normal;
+}
+
+.kb_slider_wrapper .smallcap{
+	font-size:18px;
+	font-weight: normal;
+}
+
+.kb_slider_wrapper .largecap{
+	font-size:32px;
+}
+
+.kb_slider_wrapper .imagecap{
+	position:absolute;
+}
+
+.kb_slider_wrapper .nobg{
+	background: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	text-shadow: #000 5px 5px 5px;
+}
+
+#small_divider {
+	margin-top:8px;
+}
+
+#big_divider {
+	margin-top:150px;
+}
+

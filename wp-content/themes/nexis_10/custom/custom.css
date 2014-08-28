@@ -1,0 +1,168 @@
+/*
+File:			custom.css
+Description:	Custom styles for Thesis. Nexis styles by Kolakube.com.
+
+BASIC USAGE:
+
+If you have enabled the custom stylesheet in the Thesis options panel, the <body> tag 
+will be appended with the "custom" class, like so: <body class="custom">. You can use 
+the "custom" class to override *any* CSS declarations contained in the style.css file.
+
+For example, if you wish to change the default link color to green, you would add the 
+following declarations to this file:
+
+	.custom a, .custom a:visited { color: #090; }	<--- This makes links green
+	.custom a:hover { color: #00f; }	<--- This makes links blue when you mouse over them
+
+WHY THIS WORKS:
+
+By using the "custom" class, you are creating more specific CSS declarations for HTML
+elements. CSS styling is applied through rules of specificity, and because declarations
+prepended with .custom are more specific, they get applied when the page is rendered!
+
+More information about styling your Thesis installation using this file can be found
+in the User's Guide:
+	http://diythemes.com/thesis/rtfm/customizing-thesis-with-customcss/
+*/
+
+.custom a { outline: none }
+.custom .page { background: transparent }
+
+
+/*---:{ HEADER AREA }:---*/
+
+.custom #header_area { background: #AC2020 url(images/header_area.png) repeat-x top; overflow: hidden }
+
+.custom #header { overflow: hidden }
+
+.custom #logo { float: left; text-shadow: 1px 1px 1px #AF2121 }
+	.custom #logo a { font-weight: normal }
+		.custom #logo a:hover { color: #EEE }
+
+.custom #header #tagline { background: rgba(0, 0, 0, 0.1); border: 1px solid #BE2727; border-width: 0 1px 1px 0; display: inline; float: left; font-style: italic; margin: 1.35em 0 0 0.8em; padding: 0.3em 0.6em; text-shadow: 1px 1px 1px #3C0000 }
+
+
+/*---:{ TOP NAVIGATION }:---*/
+
+#nav_area { background: #2F2E2E url(images/nav_area.png) repeat-x bottom }
+
+.custom .menu a { background: transparent; cursor: pointer; letter-spacing: normal }
+	.custom .menu .current a, .custom .menu .current-cat a, .custom .menu .current a:hover, .custom .menu .current-cat a:hover { background: #4D4D4D url(images/nav_current.png) repeat-x }
+	.custom .menu a:hover { text-decoration: underline }
+	
+	.custom .menu .rss a { background: url(images/rss.png) no-repeat center right; margin: 0; padding-right: 1.5em }
+		
+/*---:{ CATEGORY NAVIGATION }:---*/
+
+#catnav { background: #3F3F3F url(images/cat_nav_area.png) repeat-x top }
+	#catnav ul { list-style: none; overflow: hidden; padding: 0.714em 0 }
+		#catnav li { float: left }
+			#catnav li a { margin-left: 1.071em; padding: 0.714em }
+			#catnav li a:hover { background: #EEE url(images/content_area.png) repeat-x; color: #3F3F3F; -moz-border-radius: 5px; -webkit-border-radius: 5px }
+			#catnav li:first-child a { margin: 0 }
+	#catnav a { color: #CDCCCC; display: block; font-size: 1.4em }
+		#catnav a span { color: #ECECEC; font-size: 1.5em; text-shadow: 1px 1px 1px #252424 }
+			#catnav a:hover span { color: #3F3F3F; text-shadow: none }
+
+
+/*---:{ CONTENT AREA }:---*/
+
+.custom #content_area { background: url(images/content_area.png) repeat-x; padding-top: 3em }
+
+.custom #content_box { background: #FFF url(images/sidebar.png) repeat-y 65.4em 0; border: 1px solid #BEBEBE }
+	.custom #content { background: #FFF url(images/content.png) repeat-x }
+	
+.custom .teasers_box { background: url(images/grayShad.png) repeat-x; margin: 0; padding: 0; width: 100% }
+	.custom .teaser { padding: 1.5em 1.1em }
+
+.custom .prev_next { background: #FFF url(images/grayShad.png) repeat-x }
+
+
+/* POST STYLES */
+
+.custom a.more-link, .custom .teasers_box a.teaser_link { background: #EEE; border: 2px solid #DDD; border-width: 0 2px 2px 0; color: #909090; padding: 0.1em 0.3em; text-decoration: none; text-shadow: 1px 1px 1px #FFF; -moz-border-radius: 5px; -webkit-border-radius: 5px }
+	.custom a.more-link:active, .custom a.teaser_link:active { background: #F7F7F7; padding: 0.1em 0.2em }
+
+.intro, .custom blockquote { color: #888; font-size: 1.2em; font-style: italic }
+
+.custom .post ul, .custom .post ol { margin-left: 0 }
+	.custom .post li { border-bottom: 1px dashed #CCC; list-style-position: inside; margin-bottom: 0.6em; padding-bottom: 0.6em; }
+	
+.custom .headline_area img.frame { -moz-border-radius: 5px; -webkit-border-radius: 5px }
+
+.custom .note, .custom .alert { -moz-border-radius: 7px; -webkit-border-radius: 7px }
+
+.custom blockquote { background: url(images/blockquote.png) no-repeat top left; color: #9F9F9F; padding-top: 0.5em }
+
+
+/* HEADLINES */
+
+.custom .post h1, .custom .post .headline_area h2 { font-size: 3.5em; letter-spacing: -1px; line-height: 1.1em }
+	
+.custom .post h3 { color: #D32F2F; font-size: 1.6em; margin-bottom: 0.2em }
+
+.custom .post h4 { color: #333; font-size: 1.5em; font-weight: normal; margin-bottom: 0.3em }
+
+
+/* AUTHOR BOX */
+
+#author_box { background: #6B6B6B url(images/author_bg.png) repeat-x; border-top: 1px solid #000; margin: 0 -1.65em 0 -0.8em; overflow: hidden; padding: 1.1em }
+	#content #author_box h3 { color: #FFE2E2; margin: 0; text-shadow: 1px 1px 1px #111 }
+		#content #author_box h3 a { color: #FFF; text-decoration: none }
+			#content #author_box h3 a:hover { text-decoration: underline }
+	#content #author_box p { color: #F0F0F0; margin: 0.3em 0 0; text-shadow: 1px 1px 1px #111 }
+		#author_box p a { background: #7F7F7F; color: #FFF; text-decoration: none }
+			#author_box p a:hover { background: #555 }
+	#author_box img { border: 0.3em solid #7F7F7F; float: left; margin-right: 1em }
+
+
+/* COMMENTS */
+
+.custom #comments { margin-right: 0 }
+
+
+/*---:{ SIDEBAR AREA }:----*/
+
+.custom .sidebar a { color: #434343 }
+
+.custom .sidebar ul.sidebar_list { border-top: 1px solid #FFF; text-shadow: 1px 1px 1px #F9F9F9 }
+
+.custom .sidebar .widget { background: url(images/s_divider.png) repeat-x bottom; clear: both; margin-bottom: 1.5em; padding-bottom: 1.5em; overflow: hidden }
+	.custom .sidebar .widget:last-child { background: none }
+
+.custom #sidebars h3 { background: #DADADA; border: 2px solid #CCC; border-width: 0 2px 2px 0; display: inline-block; font-variant: normal; letter-spacing: normal; padding: 0.1em 0.3em; text-shadow: 1px 1px 1px #EAEAEA; text-transform: uppercase; -moz-border-radius: 5px; -webkit-border-radius: 5px }
+
+#sidebars a.button { background: url(images/button.png) repeat-x; color: #FFF; float: right; padding: 0.2em 0.5em; text-decoration: none; text-shadow: 1px 1px 1px #A40A0A; -moz-border-radius: 5px; -webkit-border-radius: 5px }
+	#sidebars a.button:hover { text-decoration: underline }
+
+
+/* STYLED WIDGETS */
+
+.custom .thesis_widget_subscriptions .sub_rss a { background: url(images/rss.png) no-repeat center left }
+.custom .thesis_widget_subscriptions .sub_email a { background: url(images/email.png) no-repeat center left }
+
+.custom .widget_categories li { list-style: square; margin: 0 0 0 1.1em; padding: 0.6em 0 }
+	.custom .widget_categories li:first-child { padding-top: 0 }
+	.custom .widget_categories li:last-child { background: none }
+
+
+/*---:{ FOOTER AREA }:---*/
+
+.custom #footer_area { background: #434343 url(images/footer_area.png) repeat-x top; margin-top: 3em }
+
+.custom #footer { padding: 2em 1.1%; text-align: left; text-shadow: 1px 1px 1px #222 }
+	.custom #footer ul { list-style: none; overflow: hidden }
+		#footer li { float: left; margin-right: 2%; width: 32% }
+			#footer li li { float: none; margin: 0; width: auto }
+	#footer h3 { background: #303030; border: 1px solid #4E4E4E; border-width: 0 1px 1px 0; color: #EEE; display: inline-block; font-size: 1.7em; margin-bottom: 0.6em; padding: 0.2em 0.4em; text-transform: uppercase; -moz-border-radius: 5px; -webkit-border-radius: 5px }
+	.custom #footer a { border: 0; color: #AAA }
+		.custom #footer a:hover { color: #BBB }
+
+#footer .last { margin: 0 }
+
+#copyright { background: url(images/copyright.png) repeat-x top; clear: both; margin-top: 2em; padding-top: 1.7em }
+
+
+/*---:{ SHARED STYLES }:---*/
+
+#catnav a, .intro, .button, .custom blockquote { font-family: Georgia, "Times New Roman", Times, serif }

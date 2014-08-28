@@ -1,0 +1,35 @@
+/* Ad settings styles */
+
+form#st_adtheme_ad_settings h3 {
+	margin-top: 3em;
+}
+
+form#st_adtheme_ad_settings table.form-table td, form#st_adtheme_ad_settings table.form-table th {
+	vertical-align: middle;
+}
+
+form#st_adtheme_ad_settings table.st_adtheme_ad_data th {
+	font-weight: bold;
+	text-align: center;
+}
+
+form#st_adtheme_ad_settings table.st_adtheme_ad_data th small {
+	display: block;
+	font-weight: normal;
+}
+
+form#st_adtheme_ad_settings table.st_adtheme_ad_data th.adnumber {
+	width: 4%;
+}
+
+form#st_adtheme_ad_settings table.st_adtheme_ad_data td.adnumber {
+	width: 10%;
+}
+
+form#st_adtheme_ad_settings table.st_adtheme_ad_data td {
+	text-align: center;
+}
+
+form#st_adtheme_ad_settings table.st_adtheme_ad_data td input {
+	width: 99%;
+}

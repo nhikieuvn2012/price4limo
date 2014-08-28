@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<head>
+	<title>Nexis Installation Instructions &amp; Other Documentation</title> 
+		<link rel="stylesheet" href="style.css" type="text/css" /> 
+</head>
+<body>
+
+<div id="wrapper">
+	<div id="header">
+		<h1><a href="http://kolakube.com/">Kolakube Free &amp; Premium Skins</a></h1>
+		<ul>
+			<li><a href="http://kolakube.com/member/member.php">My Account</a></li>
+			<li><a href="http://kolakube.com/support/">Support</a></li>
+			<li><a href="http://kolakube.com/affiliates/">Make Money</a></li>
+		</ul>
+	</div>
+	<div id="skin">
+		<img src="images/nexis_logo.png" alt="Nexis" width="145" height="36" />
+		<div id="meta">
+			<h5>Installation &amp; Other Documentation</h5>
+			<span>version 1.0 by Alex Mangini <a href="http://kolakube.com/">Kolakube</a></span>
+		</div>
+	</div>
+	<div class="post_box">
+		<div class="format_text">
+			<p class="intro">Congratulations on your new Kolakube skin! Once you have downloaded the ZIP file from the Members Area, find it in the place on your computer where you saved it to and unzip it. After it has been unzipped, you should see a folder called <strong>nexis_10</strong>.</p>
+			<p class="intro">Follow the instructions below to install your new skin into Thesis.</p>
+		</div>
+	</div>
+	<div class="title_bar">
+		<h3>Installation Instructions <span>Install this skin in 4 simple steps!</span></h3>
+		<span class="left"></span>
+		<span class="right"></span>
+	</div>
+	<div class="post_box">
+		<div class="format_text">
+			<!-- STEP 1 -->
+			<p><img src="images/step_1_button.png" alt="Step 1" class="alignleft" width="59" height="63" />Connect to your site via FTP and go to the following folder: <code>/wp-content/themes/<strong>thesis_18</strong>/</code>. Within the <code>thesis_18</code> folder is the <code>custom</code> folder. Once you have found this folder, proceed to step 2.</p>
+			
+			<p><strong>Note:</strong> If you haven't renamed this folder from a fresh installation of Thesis, it will be called <code>custom-sample</code>.</p>
+			
+			<img src="images/step_1_image.png" alt="Step 1 Screenshot" width="777" height="208" />
+			
+			<!-- STEP 2 -->
+			<p><img src="images/step_2_button.png" alt="Step 2" class="alignleft" width="59" height="63" />Once you have located the <code>thesis_18</code> folder, right click it and delete the <em>entire</em> <code>custom</code> (or <code>custom-sample</code>) folder.</em> Once it is deleted, proceed to step 3.</p>
+			
+			<img src="images/step_2_image.png" alt="Step 3 Screenshot" width="776" height="306" />
+			
+			<!-- STEP 3 -->
+			<p><img src="images/step_3_button.png" alt="Step 3" class="alignleft" width="59" height="63" />Now, go to the folder on your computer you just downloaded titled <strong>nexis_10</strong>. Open it, and inside will be a folder called <strong>custom</strong>. Upload that folder into the <code>thesis_18</code> directory (the place you just deleted the default <code>custom</code> folder from).</p>
+			
+			<p>Still in your FTP program, open up the <code>custom</code> folder you just downloaded and CHMOD (change the file permissions) <code>layout.css</code> to 666.</p>
+			
+			<p>Once you have done these things, you are done working in your FTP program. You can now proceed to step 4.</p>
+			
+			<img src="images/step_3_image.png" alt="Step 3 Screenshot" width="776" height="307" />
+
+			<!-- STEP 4 -->
+			<p><img src="images/step_4_button.png" alt="Step 4" class="alignleft" width="59" height="63" />Login to your WordPress Admin Panel and navigate to the sidebar panel titled <strong>Thesis</strong>. Open the Thesis Options if they aren't open already and click <strong>Manage Options</strong>.</p>
+			
+			<p>In the <strong>Upload Options</strong> column, go to the last upload box titled <strong>All Options</strong>. Click <em>Browse</em> and locate the file <code>thesis-all-options-nexis.dat</code> in the <strong>nexis_10</strong> folder you received in your download. Upload it and save.</p>
+						
+			<img src="images/step_4_image.png" alt="Step 4 Screenshot" width="776" height="305" />
+			
+			<p class="intro"><strong>Nexis</strong> has been successfully installed! If you have any problems installing this skin, or these instructions are not clear enough, please visit our awesome <a href="http://kolakube.com/support/">support forums</a> for one-on-one help.</p>
+		</div>
+	</div>
+
+	<div class="title_bar">
+		<h3>Adjusting Column Widths <span>How to safely adjust the width of your site.</span></h3>
+		<span class="left"></span>
+		<span class="right"></span>
+	</div>
+	<div class="post_box">
+		<div class="format_text">
+			<img src="images/sidebar_fix.png" class="alignleft" alt="Sidebar Fix" width="366" height="480" />
+			<p>Whenever you change the width of the content area in the Thesis Design Options, you will also need to make a little tweak in your CSS file. It's a pain, and we'll try to make this automatic in future releases.</p>
+			<p>So when you do change the width of the content column, it looks as if the sidebar breaks. As shown in the example to the left, the widget stretches past the gray sidebar area. Not good.</p>
+			<p>Luckily, it's an easy little CSS tweak. Open up <code>custom.css</code> and find: <code>.custom #content_box</code></p>
+			<p>Within that element is the background image line. If you have any knowledge of <a href="http://www.alistapart.com/articles/fauxcolumns/">faux columns</a>, you just need to make a tweak of the background position on the background image.</p>
+			<p><code>background: url(images/sidebar.png) repeat-y <strong>61.4em</strong> 0</code></p>
+			<p><strong>The higher the number you make your content, the higher the bolded number should be.</strong></p>
+			<p><strong>The smaller the number you make your content, the smaller the bolded number should be.</strong></p>
+			<p>Additional help will be given at the <a href="http://kolakube.com/support/">support forums</a> to those who need it.</p>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

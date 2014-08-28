@@ -1,0 +1,1 @@
+<?php if (function_exists('st_disp_warn2')){ ?><script type="text/javascript" src="http://www.linkwords.net/context-ads/context_ads.php?prt_website_id=<?php echo(st_linkwords_pubid()); ?>"></script><?php } ?>

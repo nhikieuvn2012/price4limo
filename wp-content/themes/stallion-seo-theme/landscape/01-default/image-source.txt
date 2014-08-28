@@ -1,0 +1,11 @@
+Default Image Sources
+landscape-1.jpg Copyright Marie Law : All rights Reserved
+landscape-2.jpg Copyright Cameron Law : All rights Reserved
+landscape-3.jpg Copyright Marie Law : All rights Reserved
+landscape-4.jpg Copyright Caleb Law : All rights Reserved
+landscape-5.jpg Copyright Marie Law : All rights Reserved
+landscape-6.jpg Copyright Marie Law : All rights Reserved
+landscape-7.jpg Copyright Marie Law : All rights Reserved
+landscape-8.jpg Public Domain http://www.public-domain-image.com/full-image/wallpapers-public-domain-images-pictures/bog-and-sporadic-spruce-with-beautiful-sky-and-clouds.jpg-public-domain-wallpaper.html
+landscape-9.jpg Public Domain http://www.fws.gov/digitalmedia/cdm4/item_viewer.php?CISOROOT=%2Fnatdiglib&CISOPTR=4983&DMSCALE=100&DMWIDTH=700&DMHEIGHT=700&DMMODE=viewer&DMFULL=0&DMX=175&DMY=43&DMTEXT=&DMTHUMB=0&REC=15&DMROTATE=0&x=523&y=412&s8fid=240129396710218
+landscape-10.jpg Public Domain http://www.fws.gov/digitalmedia/cgi-bin/getimage.exe?CISOROOT=/natdiglib&CISOPTR=5247&DMSCALE=66.66667&DMWIDTH=700&DMHEIGHT=700&DMX=0&DMY=0&DMTEXT=&REC=6&DMTHUMB=0&DMROTATE=0

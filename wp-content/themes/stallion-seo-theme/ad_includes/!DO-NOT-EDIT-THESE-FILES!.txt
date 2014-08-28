@@ -1,0 +1,11 @@
+If you attempt to edit these files it will break the theme,
+they are intigrated into the copy protection system to prevent
+unathorised use.
+
+There is no reason to edit these files, all template files
+in the main theme folder like index.php, single.php, header.php
+etc... can be safely edited without affecting the protection system.
+
+If you suspect a theme bug is located in one of these files please
+contact the developer who will attempt to fix the problem and release
+a bug fix.

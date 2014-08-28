@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<fields>
+			<fieldset name="general" label="General Settings">
+				
+				<field name="width" 
+					   type="text"  
+					   label="Width"
+					   default="900"
+					   unit="px"
+					   description="Sets the Size of the Slider Images. Padding, shadows etc will added from this size."></field>
+					   
+				<field name="height" 
+					   type="text"  
+					   label="Height"
+					   default="300"
+					   unit="px" 
+					   description="Sets the Size of the Slider Images. Padding, shadows etc will added from this size."></field>
+					   
+				<field name="theme" 
+					  type="list"
+					  default="light"
+					  label="Theme" 
+					  description="Slider theme - Light, Dark">
+						  <option value="light" text="Light"></option>
+						  <option value="dark" text="Dark"></option>
+				</field>
+				
+				<field name="shadow" 
+					   type="radio" 
+					   default="true" 
+					   label="Shadow" 
+					   description="Activate Shadow True/False">
+						  <option value="true" text="True"></option>
+						  <option value="false" text="False"></option>
+				</field>
+				
+				<field name="thumbStyle" 
+					  type="list"
+					  default="thumb" 
+					  label="Thumb Style" 
+					  description="Thumbnail style - Bullet, Thumb or None">
+						  <option value="thumb" text="Thumb"></option>
+						  <option value="bullet" text="Bullet"></option>
+						  <option value="none" text="None"></option>
+				</field>				
+				
+				<field name="timer" 
+					   type="text"  
+					   label="Timer"
+					   default="12"
+					   description="Global setting to swap between the banner items, in seconds."></field>
+
+				<field name="showtimer" 
+					   type="radio" 
+					   default="off" 
+					   label="Show Timer" 
+					   description="Show the timer html element on the slider">
+						  <option value="on" text="On"></option>
+						  <option value="off" text="Off"></option>
+				</field>					   
+					   
+				<field name="touchenabled" 
+					   type="radio" 
+					   default="on" 
+					   label="Touch Enabled" 
+					   description="Enable the touch swipe detection on/off">
+						  <option value="on" text="On"></option>
+						  <option value="off" text="Off"></option>
+				</field>
+				
+				<field name="global_effect_type" 
+					type="list" 
+					default="blur"
+					label="Default Color Effect" 
+					description="The default color transition effect. Will be set to all slides by default.">
+				  <option value="none" text="No Effect"></option>
+				  <option value="blur" text="Blur"></option>
+				  <option value="bw" text="Black &amp; White"></option>
+				  <option value="bright" text="Bright"></option>
+				  <option value="dark" text="Dark"></option>
+				  <option value="edge" text="Edge"></option>
+				  <option value="emboss" text="Emboss"></option>
+				  <option value="mean" text="Mean"></option>
+				</field>		
+				
+			</fieldset>
+			
+			<fieldset name="position" label="Position">
+				
+				<field name="position" 
+					   type="list" 
+					   default="center"
+					   label="Position on the page" 
+					   description="The position of the slider on the page, (float:left, float:right, margin:0px auto;)">
+						  <option value="left" text="Left"></option>
+						  <option value="center" text="Center"></option>
+						  <option value="right" text="Right"></option>
+				</field>
+
+				<field name="margin_top" 
+					   type="text"
+					   label="Margin Top"
+					   default="0"
+					   unit="px"
+					   description="The top margin of the slider wrapper div"></field>
+				
+				<field name="margin_bottom" 
+					   type="text"
+					   label="Margin Bottom"
+					   default="0"
+					   unit="px"
+					   description="The bottom margin of the slider wrapper div"></field>
+				
+				<field name="margin_left" 
+					   type="text"
+					   label="Margin Left"
+					   default="0"
+					   unit="px"
+					   description="The left margin of the slider wrapper div"></field>
+					   
+				<field name="margin_right" 
+					   type="text"
+					   label="Margin Right"
+					   default="0"
+					   unit="px"
+					   description="The right margin of the slider wrapper div"></field>
+					   
+			</fieldset>
+			
+ 			
+			<fieldset name="thumbs" label="Thumbs Settings">
+				<field name="thumbWidth" 
+					   type="text"  
+					   label="Thumb Width"
+					   default="90" 
+					   description="Width of the Preview Thumbnails"></field>
+					   
+				<field name="thumbHeight" 
+					   type="text"  
+					   label="Thumb Height"
+					   default="50"
+					   description="Height of the Preview Thumbnails"></field>
+				
+				<field name="thumbAmount" 
+					   type="text"  
+					   label="Amount of Thumbs"
+					   default="6"
+					   description="How many Thumbs visible?"></field>
+
+				<field name="thumbSpaces" 
+					   type="text"  
+					   label="Space Between Thumbs"
+					   default="4"
+					   description="Space between Thumbs"></field>
+					  
+				<field name="thumbPadding" 
+					   type="text"  
+					   label="Thumb Inner Padding"
+					   default="4"
+					   description="Inner Padding of the Thumbs"></field>
+				
+				<field name="thumbVideoIcon" 
+					   type="radio" 
+					   default="on" 
+					   label="Thumb Video Icon" 
+					   description="On / Off (Show or not the small Video Icon on the Thumbs">
+						  <option value="on" text="On"></option>
+						  <option value="off" text="Off"></option>
+				</field>		
+			</fieldset>
+			
+			<!--  bullets -->
+			
+			<fieldset name="bullets" label="Bullets Settings">
+
+					<field name="bulletXOffset" 
+						   type="text"  
+						   label="Bullet X Offset"
+						   default="0" 
+						   description="Bullet Position offset from Center Bottom"></field>
+					
+					<field name="bulletYOffset" 
+						   type="text"  
+						   label="Bullet Y Offset"
+						   default="0"
+						   description="Bullet Position offset from Center Bottom"></field>
+			</fieldset>
+			
+			
+			<!--  other settings -->
+			
+			<fieldset name="other" label="Other Settings">
+					<field name="pauseOnRollOverThumbs" 
+						   type="radio" 
+						   default="off" 
+						   label="Pause On Thumbs Rollover" 
+						   description="Stop the Ken Burn Animation and Countdown when mouse is over the thumbs (On/Off)">
+							  <option value="on" text="On"></option>
+							  <option value="off" text="Off"></option>
+					</field>		
+					
+					<field name="pauseOnRollOverMain" 
+						   type="radio" 
+						   default="on" 
+						   label="Pause On Main Rollover" 
+						   description="Stop the Ken Burn Animation and Countdown when mouse is over the main image (On/Off)">
+							  <option value="on" text="On"></option>
+							  <option value="off" text="Off"></option>
+					</field>		
+
+					<field name="preloadedSlides" 
+						   type="text" 
+						   default="2" 
+						   label="Preload Slides" 
+						   description="Amount of slides should be preloaded before slider start">
+					</field>
+							
+					<field name="useGoogleFonts" 
+						   type="radio" 
+						   default="yes" 
+						   label="Use Google Fonts" 
+						   description="Include google fonts - yes / no.">
+							  <option value="yes" text="Yes"></option>
+							  <option value="no" text="No"></option>
+					</field>
+
+					<field name="googleFontOrigin" 
+						   type="radio" 
+						   default="cdn" 
+						   label="Google Fonts JS" 
+						   description="From where the google font js goes. Choose 'Local' if you don't have outside internet.">
+							  <option value="cdn" text="CDN"></option>
+							  <option value="local" text="Local"></option>
+					</field>
+
+					<field name="googleFonts" 
+						   type="text"  
+						   label="Google Font"
+						   class="text-long"
+						   default="PT+Sans+Narrow:400,700"
+						   description="The Google Font you want tlo load. i.e. 'PT+Sans+Narrow:400,700' If you leave it empty '' no Google Font will be loaded"></field>
+
+					<field name="debug" 
+						   type="radio" 
+						   default="off"
+						   label="Debug" 
+						   description="Shows some Loading Debug Information to help understand why Slider loading time too long">
+							  <option value="on" text="On"></option>
+							  <option value="off" text="Off"></option>
+					</field>		
+					
+			</fieldset>
+			
+			<fieldset name="troubleshooting" label="Troubleshooting">
+
+				<field name="jquery_noconflict"
+					   type="list"
+					   default="on"
+					   label="JQuery No Conflict Mode"
+					   description="Turns on / off jquery noconflict mode. You can play with this option when you have some javascript conflicts.">
+						  <option value="on" text="On"></option>
+						  <option value="off" text="Off"></option>
+				</field>
+
+				<field name="js_to_body"
+					   type="radio"
+					   default="false"
+					   label="Put JS Includes To Body"
+					   description="Putting the js to body (in addition to head) is good for fixing some javascript conflicts of type: TypeError: tpj('#rev_slider_1_1').show().revolution is not a function">
+						  <option value="true" text="True"></option>
+						  <option value="false" text="False"></option>
+				</field>
+
+				<field name="output_type"
+					   type="list"
+					   default="none"
+					   label="Output Filters Protection"
+					   description="Activate a protection against wordpress output filters that adds html blocks to the shortcode output like P and BR">
+						  <option value="none" text="None"></option>
+						  <option value="compress" text="By Compressing Output"></option>
+						  <option value="echo" text="By Echo Output"></option>
+				</field>
+
+			</fieldset>
+
+				
+		</fields>

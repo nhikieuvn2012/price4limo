@@ -1,0 +1,161 @@
+#slides_container {
+    height: 700px !important;
+    width: 700px !important;
+}
+.nivo-caption {
+    width: 300px;
+	font-size:12px;
+	line-height:19px;
+}
+.slider-wrapper {
+    margin: 20px auto;
+    width: 940px;
+	background: none repeat scroll 0 0 #FFFFFF;
+	padding: 5px;
+	box-shadow:0 1px 5px 0 #4A4A4A;
+	overflow: hidden;
+}
+.nivoSlider {
+    height: auto;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+	background: none repeat scroll 0 0 #FFFFFF;
+}
+.nivoSlider img {
+    display: none;
+    left: 0;
+    max-width: none;
+    position: absolute;
+    top: 0;
+    width: 640px !important;
+}
+.nivo-main-image {
+    display: block !important;
+    position: relative !important;
+    width: 100% !important;
+}
+.nivo-slice {
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 5;
+	overflow: hidden;
+}
+.nivo-box {
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    z-index: 5;
+}
+.nivo-box img {
+    display: block;
+}
+.nivo-caption {
+    color: #000000;
+    display: none;
+    opacity: 0.8;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 300px;
+    z-index: 8;
+}
+.nivo-caption a {
+    display: inline !important;
+}
+.nivo-html-caption {
+    display: none;
+}
+.nivo-directionNav a {
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    text-indent: 9999px;
+    top: 0;
+    z-index: 9;
+}
+.nivo-prevNav {
+    background: url("../images/arrow-left.png") no-repeat scroll 0 0 #F39A57;
+    height: 25px;
+    right: 30px;
+    width: 25px;
+}
+.nivo-nextNav {
+    background: url("../images/arrow-right.png") no-repeat scroll 0 0 #F39A57;
+    height: 25px;
+    right: 0;
+    width: 25px;
+}
+.nivo-controlNav {
+    display: none;
+}
+
+.slider_title {
+    border-bottom: 1px solid #ECECEC;
+    color: #000000;
+    font-size: 16px;
+    margin-bottom: 10px !important;
+    padding: 6px 60px 6px 0;
+}
+.slider_title h2 {
+	margin:0;
+	line-height:18px;
+    font-size: 16px;
+}
+.but-wrap {
+    background-color: #F39A57;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1) inset, 0 1px 0 0 rgba(0, 0, 0, 0.1);
+    margin: 4px 2px 4px 0;
+	float:left;
+}
+.button1, .but-wrap .button1 {
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    font-size: 10px;
+    font-weight: bold;
+    height: 19px;
+    line-height: 18px;
+    margin: 0;
+    min-width: 18px;
+    padding: 0;
+    text-decoration: none;
+}
+.button1 span {
+    display: block;
+    height: 18px;
+    margin: 1px 2px 0;
+    padding: 0 10px 1px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+}
+.button1 span img {
+    margin-top: -2px;
+    vertical-align: middle;
+}
+.button1 {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 99%) repeat scroll 0 0 transparent !important;
+    border: medium none !important;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: none !important;
+}
+.button1 span {
+    box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.2) inset;
+}
+.but-wrap:hover a.button1, .selected-0 a.button1, .selected-1 a.button1, .selected-2 a.button1, .selected-3 a.button1, .selected-4 a.button1, .selected-5 a.button1 {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 1%, rgba(255, 255, 255, 0.2) 100%) repeat scroll 0 0 transparent !important;
+}
+.readmore .button1 {
+    font-size: 16px !important;
+    height: 35px !important;
+    line-height: 35px !important;
+    text-transform: uppercase;
+}
+.readmore .button1 span {
+    font-weight: normal !important;
+    padding: 0 15px;
+}
